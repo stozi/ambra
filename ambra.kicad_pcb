@@ -113,7 +113,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "C:/Users/Ryan/cephalopoda/Architeuthis dux/gerbers/")
+			(outputdirectory "gerber/")
 		)
 	)
 	(net 0 "")
@@ -13528,6 +13528,16 @@
 		(layer "Dwgs.User")
 		(uuid "89fc555e-690b-4aad-a203-e6f1b05eae88")
 	)
+	(gr_line
+		(start 98.32 117.83)
+		(end 101.227317 128.692106)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "0f2f3dc5-dead-48f5-95a7-acd9d2903142")
+	)
 	(gr_arc
 		(start 137.886428 52.005652)
 		(mid 138.114802 50.857607)
@@ -13613,6 +13623,16 @@
 		(uuid "1fbba094-dcc0-46eb-bae7-ad58b98d252f")
 	)
 	(gr_line
+		(start 97.08 113.23)
+		(end 100.49 112.29)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "2309c1e8-ddb6-422b-8cb1-8ec5ad611581")
+	)
+	(gr_line
 		(start 120.42101 113.249235)
 		(end 122.832532 122.249152)
 		(stroke
@@ -13651,16 +13671,6 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "2765a021-71f1-4136-b72b-81c2c6882946")
-	)
-	(gr_line
-		(start 98.65949 117.583537)
-		(end 101.31949 116.973537)
-		(stroke
-			(width 0.15)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "295bfacd-ede9-458a-afb1-9b6d4411dc96")
 	)
 	(gr_line
 		(start 209.499287 116.662919)
@@ -13727,6 +13737,16 @@
 		(uuid "45484f82-420e-44d0-a58e-382bb939dac5")
 	)
 	(gr_line
+		(start 93.091902 84.665978)
+		(end 94.425 89.63)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "4acba676-aadb-4b1c-ade4-96f96b7aa523")
+	)
+	(gr_line
 		(start 95.566779 80.379373)
 		(end 115.859184 74.942035)
 		(stroke
@@ -13746,6 +13766,16 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "50a799a7-f8f3-4f13-9288-b10696e9a7da")
+	)
+	(gr_line
+		(start 92.25 95.15)
+		(end 97.08 113.23)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "5328e04b-c582-4239-9f83-2850a75a3328")
 	)
 	(gr_arc
 		(start 176.349363 54.921673)
@@ -13780,16 +13810,6 @@
 		(uuid "5c1d6842-15a5-4f73-b198-8836681840a1")
 	)
 	(gr_line
-		(start 97.47949 113.153537)
-		(end 100.13949 112.543537)
-		(stroke
-			(width 0.15)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "5c6e8296-ea05-415b-9700-31f82245d08b")
-	)
-	(gr_line
 		(start 196.070592 60.373247)
 		(end 196.525113 60.914923)
 		(stroke
@@ -13821,14 +13841,14 @@
 		(uuid "665081dc-8354-4d41-8855-bde8901aee4c")
 	)
 	(gr_line
-		(start 92.619287 95.022919)
-		(end 95.279287 94.412919)
+		(start 92.25 95.15)
+		(end 95.66 94.25)
 		(stroke
 			(width 0.15)
 			(type default)
 		)
 		(layer "Edge.Cuts")
-		(uuid "678b1b3d-01d8-4e68-90da-4f2745b973f6")
+		(uuid "6901c84d-7cac-4e4a-a8e3-174e135d9355")
 	)
 	(gr_line
 		(start 184.179287 114.462919)
@@ -14053,7 +14073,7 @@
 	)
 	(gr_line
 		(start 89.821449 86.164878)
-		(end 101.227318 128.692107)
+		(end 90.995 90.55)
 		(stroke
 			(width 0.15)
 			(type solid)
@@ -14155,6 +14175,16 @@
 		(layer "Edge.Cuts")
 		(uuid "bbc56578-4361-49ee-b6e8-6e9f484bb6f1")
 	)
+	(gr_line
+		(start 98.32 117.83)
+		(end 101.74 116.91)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "bc6d9e63-fc4b-4537-93d7-95bdd0a7bc1e")
+	)
 	(gr_arc
 		(start 221.93161 78.82758)
 		(mid 222.610451 79.181028)
@@ -14178,7 +14208,7 @@
 		(uuid "c0db0455-e5c3-43c9-a2c6-f44439fefd94")
 	)
 	(gr_line
-		(start 93.091903 84.665978)
+		(start 101.74 116.91)
 		(end 104.479941 127.166713)
 		(stroke
 			(width 0.15)
@@ -14274,14 +14304,24 @@
 		(uuid "f66bb685-9833-454c-bf31-b96598f50347")
 	)
 	(gr_line
-		(start 91.399287 90.462919)
-		(end 94.059287 89.852919)
+		(start 90.995 90.55)
+		(end 94.425 89.63)
 		(stroke
 			(width 0.15)
 			(type default)
 		)
 		(layer "Edge.Cuts")
 		(uuid "f6bcd36a-cb1f-4444-8860-d4a0f76615cf")
+	)
+	(gr_line
+		(start 95.66 94.25)
+		(end 100.49 112.29)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "f73afd1e-7e22-454a-b139-8cd56a255db6")
 	)
 	(gr_line
 		(start 73.961565 86.822328)

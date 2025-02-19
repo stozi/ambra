@@ -483,7 +483,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "./",
-      "plot": "",
+      "plot": "gerber/",
       "pos_files": "",
       "specctra_dsn": "../../../../../../Documents/kalmar.dsn",
       "step": "kalmar.step",
