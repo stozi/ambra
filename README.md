@@ -7,4 +7,4 @@ JST connector added as I don't want to deal with soldered fine braided copper wi
 
 In testing.
 
-![Alt text](main/ambra.png)
+![Alt text](https://github.com/stozi/ambra/blob/main/ambra.png?raw=true)
