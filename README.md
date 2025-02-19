@@ -6,3 +6,5 @@ Thumb keys are mounted at 90° with a RTLECS MG03254 magnet pogo pin unit and he
 JST connector added as I don't want to deal with soldered fine braided copper wire fraying off in a through-hole ever again.
 
 In testing.
+
+![Alt text](main/ambra.png)
