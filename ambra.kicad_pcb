@@ -3740,6 +3740,7 @@
 		(property "Reference" "REF**"
 			(at -1.635 -3.155 15)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "b17ec45b-dbc9-4553-91dc-ab699dbee661")
 			(effects
 				(font
@@ -7691,6 +7692,7 @@
 		(property "Reference" "REF**"
 			(at -1.776 -2.6398 175)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "741a5d3a-3754-459e-aa27-da1b7b0fd70a")
 			(effects
 				(font
@@ -8051,6 +8053,7 @@
 		(property "Reference" "REF**"
 			(at -1.635 -3.155 70)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "5a97f50b-2021-4257-b0f1-75ae5b9fcc89")
 			(effects
 				(font
@@ -12855,6 +12858,7 @@
 		(property "Reference" "REF**"
 			(at -1.776 2.6398 175)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "db598874-4e99-4cc9-a6f7-d2f672b275d7")
 			(effects
 				(font
@@ -14803,9 +14807,58 @@
 			(justify mirror)
 		)
 	)
+	(gr_text "- + -"
+		(at 203.28 81.61 175)
+		(layer "B.SilkS")
+		(uuid "f136e38f-673b-4793-aad1-20921565d6c2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "AMБRA: tapioki ->\nAroum -> stozi"
+		(at 204.244287 98.727919 85)
+		(layer "F.SilkS")
+		(uuid "4c5b7cd0-af6a-424e-aed2-01ab6f3055b9")
+		(effects
+			(font
+				(size 1.8 1.8)
+				(thickness 0.4)
+				(bold yes)
+			)
+		)
+	)
+	(gr_text "board->"
+		(at 88.45 133.75 15)
+		(layer "F.SilkS")
+		(uuid "640889e2-9a9a-41b0-af41-cea14b885a51")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "- + -"
+		(at 203.28 81.61 175)
+		(layer "F.SilkS")
+		(uuid "91173b21-6da6-4921-9bc7-26bfec980b1e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "АМБРА"
 		(at 159.69 116.88 340)
-		(layer "B.SilkS")
+		(layer "B.Mask")
 		(uuid "b5308f93-b68b-4f9f-8e12-07d78e3827b5")
 		(effects
 			(font
@@ -14913,58 +14966,9 @@
 			)
 		)
 	)
-	(gr_text "- + -"
-		(at 203.28 81.61 175)
-		(layer "B.SilkS")
-		(uuid "f136e38f-673b-4793-aad1-20921565d6c2")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.2)
-			)
-			(justify left bottom mirror)
-		)
-	)
-	(gr_text "AMБRA: tapioki ->\nAroum -> stozi"
-		(at 204.244287 98.727919 85)
-		(layer "F.SilkS")
-		(uuid "4c5b7cd0-af6a-424e-aed2-01ab6f3055b9")
-		(effects
-			(font
-				(size 1.8 1.8)
-				(thickness 0.4)
-				(bold yes)
-			)
-		)
-	)
-	(gr_text "board->"
-		(at 88.45 133.75 15)
-		(layer "F.SilkS")
-		(uuid "640889e2-9a9a-41b0-af41-cea14b885a51")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.3)
-				(bold yes)
-			)
-			(justify left bottom)
-		)
-	)
-	(gr_text "- + -"
-		(at 203.28 81.61 175)
-		(layer "F.SilkS")
-		(uuid "91173b21-6da6-4921-9bc7-26bfec980b1e")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.2)
-			)
-			(justify left bottom mirror)
-		)
-	)
 	(gr_text "АМБРА"
 		(at 143.39 110.94 340)
-		(layer "F.SilkS")
+		(layer "F.Mask")
 		(uuid "df987c24-33b3-461a-aec7-fdbf11300a6d")
 		(effects
 			(font
