@@ -251,267 +251,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "BEAD-BLM18PG121SN1D:BMC1JY0120AN"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "FB"
-				(at -7.6244 5.0815 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" "BMC1JY0120AN"
-				(at -7.63 -7.6266 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" "BMC1JY0120AN:BEADC1608X95N"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "MF" "TE Connectivity"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MAXIMUM_PACKAGE_HEIGHT" "0.95mm"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Package" "None"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Price" "None"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Check_prices" "https://www.snapeda.com/parts/BMC1JY0120AN/TE+Connectivity/view-part/?ref=eda"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "STANDARD" "IPC 7351B"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "PARTREV" "A"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "SnapEDA_Link" "https://www.snapeda.com/parts/BMC1JY0120AN/TE+Connectivity/view-part/?ref=snap"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MP" "BMC1JY0120AN"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Description_1" "1 Ferrite Bead 0603 (1608 Metric) 400mA 150mOhm"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Availability" "In Stock"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MANUFACTURER" "TE Connectivity"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(symbol "BMC1JY0120AN_0_0"
-				(polyline
-					(pts
-						(xy -3.81 -1.27) (xy -1.27 -3.81)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 -3.81) (xy 3.81 1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 3.81) (xy -3.81 -1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 3.81 1.27) (xy 1.27 3.81)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -7.62 0 0)
-					(length 5.08)
-					(name "~"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 7.62 0 180)
-					(length 5.08)
-					(name "~"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "MTSW-103-07-S-S-225:MTSW-103-07-S-S-225"
 			(pin_names
 				(offset 1.016)
@@ -2376,16 +2115,6 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 31.115) (xy 86.36 24.765)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3489499e-c2b8-43a3-9eff-d6026838f114")
-	)
-	(wire
-		(pts
 			(xy 46.355 31.115) (xy 50.8 31.115)
 		)
 		(stroke
@@ -2656,7 +2385,7 @@
 	)
 	(global_label "r3c1"
 		(shape input)
-		(at 50.8 61.595 180)
+		(at 50.8 56.515 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2666,7 +2395,7 @@
 		)
 		(uuid "044dde97-ee2e-473a-9264-ed4dff1893a5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 44.0931 61.5156 0)
+			(at 43.521 56.515 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2678,29 +2407,7 @@
 	)
 	(global_label "r2c3"
 		(shape input)
-		(at 50.8 48.895 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "0a5610bb-d01a-4417-8271-dc424dd2c838")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 44.0931 48.8156 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "r1c4"
-		(shape input)
-		(at 86.36 36.195 0)
+		(at 86.36 48.895 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2708,14 +2415,36 @@
 			)
 			(justify left)
 		)
-		(uuid "0c9bbc06-f1c0-4359-8448-9c515b32a886")
+		(uuid "0a5610bb-d01a-4417-8271-dc424dd2c838")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 93.0669 36.1156 0)
+			(at 93.639 48.895 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "r1c4"
+		(shape input)
+		(at 50.8 51.435 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "0c9bbc06-f1c0-4359-8448-9c515b32a886")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 43.521 51.435 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -2873,7 +2602,7 @@
 	)
 	(global_label "r3c4"
 		(shape input)
-		(at 86.36 48.895 0)
+		(at 86.36 51.435 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2883,7 +2612,7 @@
 		)
 		(uuid "23345f3e-d08d-4834-b1dc-64de02569916")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 93.0669 48.8156 0)
+			(at 93.0669 51.3556 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2916,7 +2645,7 @@
 	)
 	(global_label "r3c3"
 		(shape input)
-		(at 86.36 33.655 0)
+		(at 86.36 56.515 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2926,7 +2655,7 @@
 		)
 		(uuid "2dc66f7e-d85d-4081-ae71-fd8851d6aeda")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 93.0669 33.5756 0)
+			(at 93.0669 56.4356 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2960,29 +2689,29 @@
 	)
 	(global_label "r3c2"
 		(shape input)
-		(at 50.8 53.975 180)
+		(at 86.36 53.975 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "42b61d5b-39d6-462b-b2cc-57656078085f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 43.521 53.975 0)
+			(at 93.639 53.975 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
 	)
 	(global_label "r1c3"
 		(shape input)
-		(at 50.8 51.435 180)
+		(at 50.8 48.895 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2992,7 +2721,7 @@
 		)
 		(uuid "42ecdba3-f348-4384-8d4b-cd21e56f3613")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 44.0931 51.3556 0)
+			(at 44.0931 48.8156 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3004,7 +2733,7 @@
 	)
 	(global_label "r3c5"
 		(shape input)
-		(at 86.36 56.515 0)
+		(at 86.36 61.595 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3014,7 +2743,7 @@
 		)
 		(uuid "5099f397-6fe7-454f-899c-34e2b5f22ca7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 93.0669 56.4356 0)
+			(at 93.639 61.595 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3090,29 +2819,29 @@
 	)
 	(global_label "r2c2"
 		(shape input)
-		(at 50.8 56.515 180)
+		(at 86.36 46.355 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "661ca2ba-bce5-4308-99a6-de333a625515")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 44.0931 56.4356 0)
+			(at 93.639 46.355 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
 	)
 	(global_label "r2c4"
 		(shape input)
-		(at 86.36 46.355 0)
+		(at 86.36 33.655 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3122,7 +2851,7 @@
 		)
 		(uuid "6fd21292-6577-40e1-bbda-18906b5e9f6f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 93.0669 46.2756 0)
+			(at 93.0669 33.5756 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3155,22 +2884,22 @@
 	)
 	(global_label "r1c5"
 		(shape input)
-		(at 86.36 51.435 0)
+		(at 50.8 53.975 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "799d9f4a-bb6b-44d5-9f4c-3a30db59943d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 93.0669 51.3556 0)
+			(at 43.521 53.975 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -3284,7 +3013,7 @@
 	)
 	(global_label "r1c2"
 		(shape input)
-		(at 50.8 59.055 180)
+		(at 50.8 46.355 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3294,7 +3023,7 @@
 		)
 		(uuid "93ac15d8-5f91-4361-acff-be4992b93b51")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 44.0931 58.9756 0)
+			(at 44.0931 46.2756 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3348,7 +3077,7 @@
 	)
 	(global_label "r2c5"
 		(shape input)
-		(at 86.36 53.975 0)
+		(at 86.36 59.055 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3358,7 +3087,7 @@
 		)
 		(uuid "9f95f1fc-aa31-4ce6-996a-4b385731d8eb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 93.0669 53.8956 0)
+			(at 93.639 59.055 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3499,22 +3228,22 @@
 	)
 	(global_label "r2c1"
 		(shape input)
-		(at 50.8 46.355 180)
+		(at 86.36 36.195 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "dd2d59b3-ddef-491f-bb57-eb3d3820bdeb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 44.0931 46.2756 0)
+			(at 93.639 36.195 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -3564,22 +3293,22 @@
 	)
 	(global_label "r4c1"
 		(shape input)
-		(at 86.36 61.595 0)
+		(at 50.8 59.055 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "ea7c53f9-3aa8-4198-9879-de95a5257915")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 93.0669 61.5156 0)
+			(at 43.521 59.055 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -3607,22 +3336,22 @@
 	)
 	(global_label "r4c2"
 		(shape input)
-		(at 86.36 59.055 0)
+		(at 50.8 61.595 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "f48f1d12-9008-4743-81e2-bdec45db64a1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 93.0669 58.9756 0)
+			(at 43.521 61.595 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -3653,7 +3382,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "enki_lib:ChocV1_duplex_hotswap"
+		(property "Footprint" "my syms-foots:ChocV1_duplex_hotswap_topor"
 			(at 192.405 52.705 0)
 			(effects
 				(font
@@ -3825,195 +3554,6 @@
 		)
 	)
 	(symbol
-		(lib_id "BEAD-BLM18PG121SN1D:BMC1JY0120AN")
-		(at 35.56 41.275 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0d3bfb80-6f71-4e4e-9efc-0d748e26866b")
-		(property "Reference" "FB2"
-			(at 35.56 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "BMC1JY0120AN"
-			(at 35.56 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "BMC1JY0120AN:BEADC1608X95N"
-			(at 35.56 41.275 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 35.56 41.275 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 35.56 41.275 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" "TE Connectivity"
-			(at 35.56 41.275 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "0.95mm"
-			(at 35.56 41.275 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "None"
-			(at 35.56 41.275 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Price" "None"
-			(at 35.56 41.275 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/BMC1JY0120AN/TE+Connectivity/view-part/?ref=eda"
-			(at 35.56 41.275 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "IPC 7351B"
-			(at 35.56 41.275 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "A"
-			(at 35.56 41.275 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/BMC1JY0120AN/TE+Connectivity/view-part/?ref=snap"
-			(at 35.56 41.275 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "BMC1JY0120AN"
-			(at 35.56 41.275 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "1 Ferrite Bead 0603 (1608 Metric) 400mA 150mOhm"
-			(at 35.56 41.275 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 35.56 41.275 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "TE Connectivity"
-			(at 35.56 41.275 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "71585ea0-00fa-43f1-b344-d2711489a81b")
-		)
-		(pin "1"
-			(uuid "f06f83ea-1afc-4aef-981b-64fa73e41e5f")
-		)
-		(instances
-			(project ""
-				(path "/eaef1172-3351-417c-bfc4-74a598f141cb"
-					(reference "FB2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "MTSW-103-07-S-S-225:MTSW-103-07-S-S-225")
 		(at 200.66 110.49 90)
 		(unit 1)
@@ -4041,7 +3581,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MTSW-103-07-S-S-225:SAMTEC_MTSW-103-07-S-S-225"
+		(property "Footprint" "my syms-foots:RTLECS_MG03254_90_m"
 			(at 200.66 110.49 0)
 			(effects
 				(font
@@ -4192,195 +3732,6 @@
 			(project ""
 				(path "/eaef1172-3351-417c-bfc4-74a598f141cb"
 					(reference "J3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "BEAD-BLM18PG121SN1D:BMC1JY0120AN")
-		(at 93.98 24.765 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0fc813d4-65d3-4897-ad76-a988cce18a00")
-		(property "Reference" "FB4"
-			(at 93.98 16.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "BMC1JY0120AN"
-			(at 93.98 19.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "BMC1JY0120AN:BEADC1608X95N"
-			(at 93.98 24.765 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 93.98 24.765 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 93.98 24.765 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" "TE Connectivity"
-			(at 93.98 24.765 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "0.95mm"
-			(at 93.98 24.765 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "None"
-			(at 93.98 24.765 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Price" "None"
-			(at 93.98 24.765 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/BMC1JY0120AN/TE+Connectivity/view-part/?ref=eda"
-			(at 93.98 24.765 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "IPC 7351B"
-			(at 93.98 24.765 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "A"
-			(at 93.98 24.765 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/BMC1JY0120AN/TE+Connectivity/view-part/?ref=snap"
-			(at 93.98 24.765 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "BMC1JY0120AN"
-			(at 93.98 24.765 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "1 Ferrite Bead 0603 (1608 Metric) 400mA 150mOhm"
-			(at 93.98 24.765 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 93.98 24.765 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "TE Connectivity"
-			(at 93.98 24.765 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "8c34e0c0-23f3-4ccb-a70e-d77ea6480b33")
-		)
-		(pin "1"
-			(uuid "53cc131e-b17e-44c2-a145-10ce6a17b899")
-		)
-		(instances
-			(project ""
-				(path "/eaef1172-3351-417c-bfc4-74a598f141cb"
-					(reference "FB4")
 					(unit 1)
 				)
 			)
@@ -4672,7 +4023,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "enki_lib:ChocV1_duplex_hotswap"
+		(property "Footprint" "my syms-foots:ChocV1_duplex_hotswap_topor"
 			(at 174.625 52.705 0)
 			(effects
 				(font
@@ -4869,7 +4220,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "enki_lib:ChocV1_duplex_hotswap"
+		(property "Footprint" "my syms-foots:ChocV1_duplex_hotswap_topor"
 			(at 210.185 37.465 0)
 			(effects
 				(font
@@ -4911,197 +4262,8 @@
 		)
 	)
 	(symbol
-		(lib_id "BEAD-BLM18PG121SN1D:BMC1JY0120AN")
-		(at 74.93 139.7 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4bd05b86-e4d7-43aa-84c9-216c03a3dc67")
-		(property "Reference" "FB1"
-			(at 74.93 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "BLM18PG121SN1D"
-			(at 74.93 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "BLM18PG121SN1D:BEADC1608X95N"
-			(at 74.93 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 74.93 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 74.93 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" "TE Connectivity"
-			(at 74.93 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "0.95mm"
-			(at 74.93 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "None"
-			(at 74.93 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Price" "None"
-			(at 74.93 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/BMC1JY0120AN/TE+Connectivity/view-part/?ref=eda"
-			(at 74.93 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "IPC 7351B"
-			(at 74.93 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "A"
-			(at 74.93 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/BMC1JY0120AN/TE+Connectivity/view-part/?ref=snap"
-			(at 74.93 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "BMC1JY0120AN"
-			(at 74.93 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "1 Ferrite Bead 0603 (1608 Metric) 400mA 150mOhm"
-			(at 74.93 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 74.93 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "TE Connectivity"
-			(at 74.93 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ffeaf638-8b01-411b-8bc7-22e094c3579b")
-		)
-		(pin "2"
-			(uuid "167e1b16-245c-45a4-a12c-ca5ebf3e6835")
-		)
-		(instances
-			(project ""
-				(path "/eaef1172-3351-417c-bfc4-74a598f141cb"
-					(reference "FB1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:VCC")
-		(at 27.94 41.275 90)
+		(at 43.18 41.275 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5109,7 +4271,7 @@
 		(dnp no)
 		(uuid "4fb2577d-2e1c-480c-9060-124510b35053")
 		(property "Reference" "#PWR0104"
-			(at 31.75 41.275 0)
+			(at 46.99 41.275 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5118,7 +4280,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 24.13 41.275 0)
+			(at 39.37 41.275 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5126,7 +4288,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 27.94 41.275 0)
+			(at 43.18 41.275 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5135,7 +4297,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 27.94 41.275 0)
+			(at 43.18 41.275 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5144,7 +4306,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 27.94 41.275 0)
+			(at 43.18 41.275 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5319,7 +4481,7 @@
 				)
 			)
 		)
-		(property "Footprint" "enki_lib:MJ-4PP-9_dual"
+		(property "Footprint" "my syms-foots:TRRS-MJ-4PP-9_dual_topor"
 			(at 66.675 137.16 0)
 			(effects
 				(font
@@ -5393,7 +4555,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "enki_lib:ChocV1_duplex_hotswap"
+		(property "Footprint" "my syms-foots:ChocV1_duplex_hotswap_topor"
 			(at 156.845 52.705 0)
 			(effects
 				(font
@@ -5460,7 +4622,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "enki_lib:ChocV1_duplex_hotswap"
+		(property "Footprint" "my syms-foots:ChocV1_duplex_hotswap_topor"
 			(at 254 48.26 0)
 			(effects
 				(font
@@ -5519,7 +4681,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GND2"
 			(at 149.733 106.0958 0)
 			(effects
 				(font
@@ -5592,7 +4754,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "enki_lib:ChocV1_duplex_hotswap"
+		(property "Footprint" "my syms-foots:ChocV1_duplex_hotswap_topor"
 			(at 210.185 67.945 0)
 			(effects
 				(font
@@ -5659,7 +4821,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "enki_lib:ChocV1_duplex_hotswap"
+		(property "Footprint" "my syms-foots:ChocV1_duplex_hotswap_topor"
 			(at 174.625 37.465 0)
 			(effects
 				(font
@@ -5726,7 +4888,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "enki_lib:ChocV1_duplex_hotswap"
+		(property "Footprint" "my syms-foots:ChocV1_duplex_hotswap_topor"
 			(at 139.065 67.945 0)
 			(effects
 				(font
@@ -5795,7 +4957,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "B2B-ZR_LF__SN_:JST_B2B-ZR_LF__SN_"
+		(property "Footprint" "my syms-foots:JST_B2B-ZR_LF__SN_"
 			(at 252.73 110.49 0)
 			(effects
 				(font
@@ -6220,7 +5382,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 82.55 139.7 90)
+		(at 67.31 139.7 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6229,7 +5391,7 @@
 		(fields_autoplaced yes)
 		(uuid "9213b385-b1c9-440c-bf9c-5a62e2d78315")
 		(property "Reference" "#PWR03"
-			(at 88.9 139.7 0)
+			(at 73.66 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6238,7 +5400,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 87.1125 139.7 0)
+			(at 71.8725 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6247,7 +5409,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 82.55 139.7 0)
+			(at 67.31 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6256,7 +5418,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 82.55 139.7 0)
+			(at 67.31 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6265,7 +5427,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 82.55 139.7 0)
+			(at 67.31 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6441,7 +5603,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "enki_lib:ChocV1_duplex_hotswap"
+		(property "Footprint" "my syms-foots:ChocV1_duplex_hotswap_topor"
 			(at 192.405 37.465 0)
 			(effects
 				(font
@@ -6477,195 +5639,6 @@
 			(project "kalmar"
 				(path "/eaef1172-3351-417c-bfc4-74a598f141cb"
 					(reference "SWr1c2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "BEAD-BLM18PG121SN1D:BMC1JY0120AN")
-		(at 101.6 40.005 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a0caffcf-4b98-4321-9710-916c1b4aa2be")
-		(property "Reference" "FB3"
-			(at 101.6 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "BMC1JY0120AN"
-			(at 101.6 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "BMC1JY0120AN:BEADC1608X95N"
-			(at 101.6 40.005 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 101.6 40.005 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 101.6 40.005 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" "TE Connectivity"
-			(at 101.6 40.005 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "0.95mm"
-			(at 101.6 40.005 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "None"
-			(at 101.6 40.005 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Price" "None"
-			(at 101.6 40.005 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/BMC1JY0120AN/TE+Connectivity/view-part/?ref=eda"
-			(at 101.6 40.005 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "IPC 7351B"
-			(at 101.6 40.005 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "A"
-			(at 101.6 40.005 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/BMC1JY0120AN/TE+Connectivity/view-part/?ref=snap"
-			(at 101.6 40.005 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "BMC1JY0120AN"
-			(at 101.6 40.005 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "1 Ferrite Bead 0603 (1608 Metric) 400mA 150mOhm"
-			(at 101.6 40.005 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 101.6 40.005 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "TE Connectivity"
-			(at 101.6 40.005 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "72f06203-6666-4129-8f21-b36c26d067b0")
-		)
-		(pin "1"
-			(uuid "da39f03a-d09a-4499-9d5e-7a6ecfe80741")
-		)
-		(instances
-			(project ""
-				(path "/eaef1172-3351-417c-bfc4-74a598f141cb"
-					(reference "FB3")
 					(unit 1)
 				)
 			)
@@ -6832,7 +5805,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "enki_lib:ProMicro_duplex_clean"
+		(property "Footprint" "my syms-foots:ProMicro_duplex_clean"
 			(at 68.58 29.0576 0)
 			(effects
 				(font
@@ -7036,7 +6009,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "enki_lib:ChocV1_duplex_hotswap"
+		(property "Footprint" "my syms-foots:ChocV1_duplex_hotswap_topor"
 			(at 139.065 52.705 0)
 			(effects
 				(font
@@ -7103,7 +6076,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "enki_lib:ChocV1_duplex_hotswap"
+		(property "Footprint" "my syms-foots:ChocV1_duplex_hotswap_topor"
 			(at 210.185 52.705 0)
 			(effects
 				(font
@@ -7170,7 +6143,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "enki_lib:ChocV1_duplex_hotswap"
+		(property "Footprint" "my syms-foots:ChocV1_duplex_hotswap_topor"
 			(at 192.405 67.945 0)
 			(effects
 				(font
@@ -7237,7 +6210,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "enki_lib:ChocV1_duplex_hotswap"
+		(property "Footprint" "my syms-foots:ChocV1_duplex_hotswap_topor"
 			(at 254 63.5 0)
 			(effects
 				(font
@@ -7304,7 +6277,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "enki_lib:ChocV1_duplex_hotswap"
+		(property "Footprint" "my syms-foots:ChocV1_duplex_hotswap_topor"
 			(at 139.065 37.465 0)
 			(effects
 				(font
@@ -7347,7 +6320,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 101.6 24.765 90)
+		(at 86.36 31.115 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7355,7 +6328,7 @@
 		(dnp no)
 		(uuid "db532ed2-914c-41b4-b389-de2bf235d0a7")
 		(property "Reference" "#PWR0116"
-			(at 107.95 24.765 0)
+			(at 92.71 31.115 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7364,7 +6337,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 105.41 24.765 0)
+			(at 90.17 31.115 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7373,7 +6346,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 101.6 24.765 0)
+			(at 86.36 31.115 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7382,7 +6355,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 101.6 24.765 0)
+			(at 86.36 31.115 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7391,7 +6364,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 101.6 24.765 0)
+			(at 86.36 31.115 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7504,7 +6477,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MTSW-103-07-S-S-225:SAMTEC_MTSW-103-07-S-S-225"
+		(property "Footprint" "my syms-foots:RTLECS_MG03254_f"
 			(at 147.32 123.19 0)
 			(effects
 				(font
@@ -7686,7 +6659,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "enki_lib:SW_3x4x2_2legs_x2"
+		(property "Footprint" "my syms-foots:reset-SW_3x4x2_2legs_x2"
 			(at 71.12 104.775 0)
 			(effects
 				(font
@@ -7753,7 +6726,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "enki_lib:ChocV1_duplex_hotswap"
+		(property "Footprint" "my syms-foots:ChocV1_duplex_hotswap_topor"
 			(at 156.845 37.465 0)
 			(effects
 				(font
@@ -7820,7 +6793,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TESDU12VRGG:DIO_TESDU12VRGG"
+		(property "Footprint" "my syms-foots:TVS-P6SMBJ5.0CA"
 			(at 251.46 125.095 0)
 			(effects
 				(font
@@ -8116,7 +7089,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 109.22 40.005 90)
+		(at 93.98 40.005 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8124,7 +7097,7 @@
 		(dnp no)
 		(uuid "f4117d3e-819d-4d33-bf85-69e28ba32fe5")
 		(property "Reference" "#PWR0103"
-			(at 115.57 40.005 0)
+			(at 100.33 40.005 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8133,7 +7106,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 113.03 40.005 0)
+			(at 97.79 40.005 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8141,7 +7114,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 109.22 40.005 0)
+			(at 93.98 40.005 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8150,7 +7123,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 109.22 40.005 0)
+			(at 93.98 40.005 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8159,7 +7132,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 109.22 40.005 0)
+			(at 93.98 40.005 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8205,7 +7178,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "enki_lib:ChocV1_duplex_hotswap"
+		(property "Footprint" "my syms-foots:ChocV1_duplex_hotswap_topor"
 			(at 156.845 67.945 0)
 			(effects
 				(font
@@ -8272,7 +7245,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "enki_lib:ChocV1_duplex_hotswap"
+		(property "Footprint" "my syms-foots:ChocV1_duplex_hotswap_topor"
 			(at 174.625 67.945 0)
 			(effects
 				(font
