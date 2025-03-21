@@ -2407,7 +2407,7 @@
 	)
 	(global_label "r2c3"
 		(shape input)
-		(at 86.36 48.895 0)
+		(at 86.36 33.655 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2417,7 +2417,7 @@
 		)
 		(uuid "0a5610bb-d01a-4417-8271-dc424dd2c838")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 93.639 48.895 0)
+			(at 93.639 33.655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2602,7 +2602,7 @@
 	)
 	(global_label "r3c4"
 		(shape input)
-		(at 86.36 51.435 0)
+		(at 86.36 56.515 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2612,7 +2612,7 @@
 		)
 		(uuid "23345f3e-d08d-4834-b1dc-64de02569916")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 93.0669 51.3556 0)
+			(at 93.0669 56.4356 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2645,7 +2645,7 @@
 	)
 	(global_label "r3c3"
 		(shape input)
-		(at 86.36 56.515 0)
+		(at 86.36 51.435 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2655,7 +2655,7 @@
 		)
 		(uuid "2dc66f7e-d85d-4081-ae71-fd8851d6aeda")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 93.0669 56.4356 0)
+			(at 93.0669 51.3556 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2841,22 +2841,22 @@
 	)
 	(global_label "r2c4"
 		(shape input)
-		(at 86.36 33.655 0)
+		(at 50.8 53.975 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "6fd21292-6577-40e1-bbda-18906b5e9f6f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 93.0669 33.5756 0)
+			(at 43.521 53.975 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -2884,22 +2884,22 @@
 	)
 	(global_label "r1c5"
 		(shape input)
-		(at 50.8 53.975 180)
+		(at 86.36 48.895 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "799d9f4a-bb6b-44d5-9f4c-3a30db59943d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 43.521 53.975 0)
+			(at 93.639 48.895 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -5734,7 +5734,7 @@
 				)
 			)
 		)
-		(property "Footprint" "enki_lib:switch_MSK-12C02_smd_x2"
+		(property "Footprint" "my syms-foots:switch_MSK-12C02_smd_x2_topor"
 			(at 41.275 28.575 0)
 			(effects
 				(font
