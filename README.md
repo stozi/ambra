@@ -28,12 +28,12 @@ Item     | Qty   | Notes
 [MSK-12CO2](https://aliexpress.ru/item/1005001398386692.html) | 2 | power switch
 [SMD button 3×4×2](https://aliexpress.ru/item/1005003812819985.html) | 2 | reset switch
 [301230 li-po](https://aliexpress.ru/item/32732458079.html) | 2 | battery
-[JST PH](https://www.aliexpress.com/item/1005008131930144.html) | 2 |  Right-angle 2-pin
+[JST PH right-angle 2-pin](https://www.aliexpress.com/item/1005008131930144.html) | 2 | battery connector
 [JST wire](https://www.aliexpress.com/item/1005001649158434.html) | 2 | solder & shrink tube to battery wires, no crimping needed
 [M3 bolts, 3mm](https://www.aliexpress.com/item/1005006662972635.html) | 2 | flathead, couples with magnet
 M3 nuts, 1.8mm (ISO 4035) | 2 |
 M2.5 bolts, 4mm | 2 | tapered head, holds magnet
-M2.5 nuts, ~1.35mm (ISO 4035)| 2 |
+M2.5 nuts, ~1.35mm (ISO 4035)| 2 | for magnet
 M2 bolts, 3.5mm | 4 | for board bracket
 M2 bolts, 7.5mm | 2 | for thumb key bracket
 M2 nuts, ~1.1mm (ISO 4035) | 6 | 
