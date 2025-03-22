@@ -1,9 +1,17 @@
 # ambra
 A [Kalmar](https://github.com/aroum/kalmar)/[A. Dux](https://github.com/tapioki/cephalopoda/tree/main/Architeuthis%20dux)-based 34-key split ortho keyboard
 
-Thumb keys are mounted at 90° with a [RTLECS MG03254](https://sl.aliexpress.ru/p?key=pW35Gta) magnet pogo-pin unit and held in place with the 3D printable brackets and a D6x3mm cylindrical neodymium magnet on a 4mm M2.5 tapered-head bolt. The magnet couples with a steel 3mm M3 bolt with an unbeveled flathead (D6mm) in the other bracket. The brackets are held on with three M2 bolts, one about 7.5mm, two 3.5mm. Alternatively, you can run a 9mm or longer M2.5 bolt through both brackets if you don't need fold-down packability.
+#Changes from Kalmar
 
-2mm-pitch JST PH connector added for the battery, you can get a male end pre-crimped to wires and easily solder the wires to your battery wires. I added a ground plane for ESD protection. This involved optimizing the pinout. So, until this gets accepted to ZMK, for QWERTY, set up your ZMK keymap for A. Dux as follows:
+- thumb keys mount at 90° with pogo pins and 3D-printed magnet brackets
+- JST PH battery connector
+- ground plane for some ESD protection, new pinout
+
+Thumb keys are mounted at 90° magnetically on 3D printed brackets. Alternatively, you can run a 9mm or longer M2.5 bolt through both brackets if you don't need fold-down packability.
+
+For the battery connector, you can get a connector pre-crimped to wires and easily solder/shrink-tube the wires to your battery wires. 
+
+The pinout has been optimized so, until this gets accepted to ZMK, for QWERTY, set up your ZMK keymap for A. Dux as follows:
 
 ```
      X E D G T  Y H K I .
@@ -17,3 +25,42 @@ Better put a non-conductive coating over the JST connector's mount points and re
 ![Alt text](https://github.com/stozi/ambra/blob/main/ambra.png?raw=true)
 ![Alt text](https://github.com/stozi/ambra/blob/main/ambra-back.png?raw=true)
 ![Alt text](https://github.com/stozi/ambra/blob/main/brackets.png?raw=true)
+
+##BOM
+
+|Item     | Qty   | Notes
+--------------------------
+[SuperMini NRF52840](https://www.aliexpress.com/item/1005008099333183.html) | 2 | inc. sockets
+--------------------------------------------------------------------------
+[Kailh Choc V1]((https://aliexpress.ru/item/32959996455.html)) | 34 | key switches
+------------------------------------------------------------------------
+[Keycaps](https://aliexpress.ru/item/33026798318.html) | 34 | 1U
+-------------------------------------------------------------------------
+[Magnets](https://www.aliexpress.com/item/1005006788058856.html) | 2 | D6×3mm annular cylinder
+------------------------------------------------------------------------
+[RTLECS MG03254 3-pin](https://sl.aliexpress.ru/p?key=pW35Gta) | 2 pairs | pair of pogo pin connectors, straight + right angle
+--------------------------------------------------------------------------
+[MSK-12CO2](https://aliexpress.ru/item/1005001398386692.html) | 2 | power switch
+-----------------------------------------------------------------------
+[SMD button 3×4×2](https://aliexpress.ru/item/1005003812819985.html) | 2 | reset switch
+----------------------------------------------------------------------
+[301230 li-po](https://aliexpress.ru/item/32732458079.html) | 2 | battery
+----------------------------------------------------------------------
+[JST PH](https://www.aliexpress.com/item/1005008131930144.html) | 2 |  Right-angle 2-pin
+-------------------------------------------------------------------------------
+[JST wire](https://www.aliexpress.com/item/1005001649158434.html) | 2 | solder & shrink tube to battery wires
+-------------------------------------------------------------------------
+[M3 bolts, 3mm](https://www.aliexpress.com/item/1005006662972635.html) | 2 | flathead, couples with magnet
+-------------------------------------------------------------------------
+M3 nuts, 1.8mm (ISO 4035) | 2 |
+-------------------------------------------------------------------------
+M2.5 bolts, 4mm | 2 | tapered head, holds magnet
+------------------------------------------------------------------------
+M2.5 nuts, ~1.35mm (ISO 4035)| 2 |
+-------------------------------------------------------------------------
+M2 bolts, 3.5mm | 4 | for board bracket
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+M2 bolts, 7.5mm | 2 | for thumb key bracket
+--------------------------------------------------------------------
+M2 nuts, ~1.1mm (ISO 4035) | 6 | 
+-------------------------------------------------------------------
