@@ -9,14 +9,6 @@ A [Kalmar](https://github.com/aroum/kalmar)/[A. Dux](https://github.com/tapioki/
 
 Thumb keys are mounted at 90° magnetically on 3D printed brackets. Alternatively, you can run a 9mm or longer M2.5 bolt through both brackets if you don't need fold-down packability.
 
-The pinout has been optimized so, until this gets accepted to ZMK, for QWERTY, set up your ZMK keymap for A. Dux as follows:
-
-```
-     X E D G T  Y H K I .
-lthumb S V C W  O , M L rthumb
-rthumb Z Q A F  J ; P ? lthumb
-           R B  N U
-```
 
 Better put a non-conductive coating over the JST connector's mount points and reenforce the pogo-pin units with a little epoxy putty just to relieve the pins of any leverage. In testing.
 
@@ -45,3 +37,12 @@ M2.5 nuts, ~1.35mm (ISO 4035)| 2 |
 M2 bolts, 3.5mm | 4 | for board bracket
 M2 bolts, 7.5mm | 2 | for thumb key bracket
 M2 nuts, ~1.1mm (ISO 4035) | 6 | 
+
+The pinout has been optimized so, until this gets accepted to ZMK, for QWERTY, set up your ZMK keymap for A. Dux as follows:
+
+```
+     X E D G T  Y H K I .
+lthumb S V C W  O , M L rthumb
+rthumb Z Q A F  J ; P ? lthumb
+           R B  N U
+```
