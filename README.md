@@ -9,8 +9,6 @@ A [Kalmar](https://github.com/aroum/kalmar)/[A. Dux](https://github.com/tapioki/
 
 Thumb keys are mounted at 90° magnetically on 3D printed brackets. Alternatively, you can run a 9mm or longer M2.5 bolt through both brackets if you don't need fold-down packability.
 
-For the battery connector, you can get a connector pre-crimped to wires and easily solder/shrink-tube the wires to your battery wires. 
-
 The pinout has been optimized so, until this gets accepted to ZMK, for QWERTY, set up your ZMK keymap for A. Dux as follows:
 
 ```
@@ -20,7 +18,7 @@ rthumb Z Q A F  J ; P ? lthumb
            R B  N U
 ```
 
-Better put a non-conductive coating over the JST connector's mount points and reenforce the pogo-pin units with a little epoxy putty. In testing.
+Better put a non-conductive coating over the JST connector's mount points and reenforce the pogo-pin units with a little epoxy putty just to relieve the pins of any leverage. In testing.
 
 ![Alt text](https://github.com/stozi/ambra/blob/main/ambra.png?raw=true)
 ![Alt text](https://github.com/stozi/ambra/blob/main/ambra-back.png?raw=true)
@@ -30,7 +28,7 @@ Better put a non-conductive coating over the JST connector's mount points and re
 
 Item     | Qty   | Notes 
 ----------|-------|-------
-[SuperMini NRF52840](https://www.aliexpress.com/item/1005008099333183.html) | 2 | inc. sockets
+[SuperMini NRF52840 MCU](https://www.aliexpress.com/item/1005008099333183.html) | 2 | inc. sockets
 [Kailh Choc V1](https://aliexpress.ru/item/32959996455.html) | 34 | key switches
 [Keycaps](https://aliexpress.ru/item/33026798318.html) | 34 | 1U
 [Magnets](https://www.aliexpress.com/item/1005006788058856.html) | 2 | D6×3mm annular cylinder
@@ -39,7 +37,7 @@ Item     | Qty   | Notes
 [SMD button 3×4×2](https://aliexpress.ru/item/1005003812819985.html) | 2 | reset switch
 [301230 li-po](https://aliexpress.ru/item/32732458079.html) | 2 | battery
 [JST PH](https://www.aliexpress.com/item/1005008131930144.html) | 2 |  Right-angle 2-pin
-[JST wire](https://www.aliexpress.com/item/1005001649158434.html) | 2 | solder & shrink tube to battery wires
+[JST wire](https://www.aliexpress.com/item/1005001649158434.html) | 2 | solder & shrink tube to battery wires, no crimping needed
 [M3 bolts, 3mm](https://www.aliexpress.com/item/1005006662972635.html) | 2 | flathead, couples with magnet
 M3 nuts, 1.8mm (ISO 4035) | 2 |
 M2.5 bolts, 4mm | 2 | tapered head, holds magnet
