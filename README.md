@@ -6,7 +6,7 @@ Thumb keys are mounted at 90° with a [RTLECS MG03254](https://sl.aliexpress.ru/
 2mm-pitch JST PH connector added for the battery, you can get a male end pre-crimped to wires and easily solder the wires to your battery wires. I added a ground plane for ESD protection. This involved optimizing the pinout. So, until this gets accepted to ZMK, for QWERTY, set up your ZMK keymap for A. Dux as follows:
 
 ```
-X      E D G T  Y H K I .
+     X E D G T  Y H K I .
 lthumb S V C W  O , M L rthumb
 rthumb Z Q A F  J ; P ? lthumb
            R B  N U
