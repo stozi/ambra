@@ -251,6 +251,386 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "C0603C104K8RACTU:C0603C104K8RACTU"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0 3.8109 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "C0603C104K8RACTU"
+				(at 0 -5.0885 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "C0603C104K8RACTU:CAPC1608X95N"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "DigiKey_Part_Number" "399-C0603C104K8RACTUTR-ND"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/C0603C104K8RACTU/KEMET/view-part/?ref=snap"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Description_1" "0.1 µF ±10% 10V Ceramic Capacitor X7R 0603 (1608 Metric)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MF" "KEMET"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Package" "603-2 KEMET"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Check_prices" "https://www.snapeda.com/parts/C0603C104K8RACTU/KEMET/view-part/?ref=eda"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MP" "C0603C104K8RACTU"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(symbol "C0603C104K8RACTU_0_0"
+				(rectangle
+					(start 0 -1.9069)
+					(end 0.635 1.905)
+					(stroke
+						(width 0.1)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 1.9069 -1.9069)
+					(end 2.54 1.905)
+					(stroke
+						(width 0.1)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(pin passive line
+					(at -2.54 0 0)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "GCM32ER71E106KA42L:GCM32ER71E106KA42L"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0 3.8109 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "GCM32ER71E106KA42L"
+				(at 0 -5.0885 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "GCM32ER71E106KA42L:CAPC3225X270N"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MF" "Murata"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Description_1" "Cap Ceramic 10uF 25V X7R 10% Pad SMD 1210 125°C Automotive T/R"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Package" "3225 Murata"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Price" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/GCM32ER71E106KA42L/Murata/view-part/?ref=snap"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MP" "GCM32ER71E106KA42L"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Availability" "In Stock"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Check_prices" "https://www.snapeda.com/parts/GCM32ER71E106KA42L/Murata/view-part/?ref=eda"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(symbol "GCM32ER71E106KA42L_0_0"
+				(rectangle
+					(start 0 -1.9069)
+					(end 0.635 1.905)
+					(stroke
+						(width 0.1)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 1.9069 -1.9069)
+					(end 2.54 1.905)
+					(stroke
+						(width 0.1)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(pin passive line
+					(at -2.54 0 0)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "MTSW-103-07-S-S-225:MTSW-103-07-S-S-225"
 			(pin_names
 				(offset 1.016)
@@ -2044,6 +2424,12 @@
 		(uuid "919496a4-7189-4f72-9356-49aa024b6c7c")
 	)
 	(junction
+		(at 34.925 41.275)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dc70f63b-1acd-47ac-9e5c-808cfd048b1e")
+	)
+	(junction
 		(at 88.9 40.005)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2062,6 +2448,16 @@
 			(type default)
 		)
 		(uuid "017667a9-f5de-49c7-af53-4f9af2f3a311")
+	)
+	(wire
+		(pts
+			(xy 34.925 41.275) (xy 36.195 41.275)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "05156e3f-b329-4cd2-838d-b0a369ed0e73")
 	)
 	(wire
 		(pts
@@ -2092,6 +2488,16 @@
 			(type default)
 		)
 		(uuid "1eca5f72-2356-4c55-919d-595727faf3b9")
+	)
+	(wire
+		(pts
+			(xy 31.75 41.275) (xy 34.925 41.275)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "307f4c9a-61d5-48c9-bd24-260c3254eeae")
 	)
 	(wire
 		(pts
@@ -2325,6 +2731,16 @@
 	)
 	(wire
 		(pts
+			(xy 43.815 41.275) (xy 50.8 41.275)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d9294c1d-a407-44f6-bb5c-8af4a9357312")
+	)
+	(wire
+		(pts
 			(xy 43.18 36.195) (xy 50.8 36.195)
 		)
 		(stroke
@@ -2342,16 +2758,6 @@
 			(type default)
 		)
 		(uuid "f1aefde5-e9fa-4acf-89bf-f50cdbbc3bff")
-	)
-	(wire
-		(pts
-			(xy 43.18 41.275) (xy 50.8 41.275)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f4ef4c30-2238-4575-a602-41a92e2e8969")
 	)
 	(wire
 		(pts
@@ -2841,7 +3247,7 @@
 			)
 		)
 	)
-	(global_label "VBAT"
+	(global_label "VCC"
 		(shape input)
 		(at 36.195 28.575 180)
 		(fields_autoplaced yes)
@@ -2853,11 +3259,12 @@
 		)
 		(uuid "7274c82d-0cb9-47de-b093-7d848f491410")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -15.875 -46.355 0)
+			(at 29.5812 28.575 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -3228,9 +3635,9 @@
 			)
 		)
 	)
-	(global_label "VBAT"
+	(global_label "VCC"
 		(shape input)
-		(at 50.8 33.655 180)
+		(at 24.13 41.275 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3240,7 +3647,7 @@
 		)
 		(uuid "de552ae9-cde6-4643-8cc7-9de2579dadae")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 43.9721 33.5756 0)
+			(at 17.5162 41.275 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3398,6 +3805,144 @@
 			(project "kalmar"
 				(path "/eaef1172-3351-417c-bfc4-74a598f141cb"
 					(reference "SWr2c2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "C0603C104K8RACTU:C0603C104K8RACTU")
+		(at 41.275 41.275 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0469b7e2-eeab-4b63-b160-92a1544e5e75")
+		(property "Reference" "C2"
+			(at 36.83 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "C0603C104K8RACTU"
+			(at 34.29 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "C0603C104K8RACTU:CAPC1608X95N"
+			(at 41.275 41.275 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 41.275 41.275 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 41.275 41.275 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_Part_Number" "399-C0603C104K8RACTUTR-ND"
+			(at 41.275 41.275 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/C0603C104K8RACTU/KEMET/view-part/?ref=snap"
+			(at 41.275 41.275 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "0.1 µF ±10% 10V Ceramic Capacitor X7R 0603 (1608 Metric)"
+			(at 41.275 41.275 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MF" "KEMET"
+			(at 41.275 41.275 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "603-2 KEMET"
+			(at 41.275 41.275 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/C0603C104K8RACTU/KEMET/view-part/?ref=eda"
+			(at 41.275 41.275 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "C0603C104K8RACTU"
+			(at 41.275 41.275 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "71ec4274-035c-4d0e-a3d6-52da65b23510")
+		)
+		(pin "1"
+			(uuid "943c4279-03cb-4420-8b17-edaa1ad17964")
+		)
+		(instances
+			(project ""
+				(path "/eaef1172-3351-417c-bfc4-74a598f141cb"
+					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -4242,16 +4787,16 @@
 		)
 	)
 	(symbol
-		(lib_id "power:VCC")
-		(at 43.18 41.275 90)
+		(lib_id "power:GND")
+		(at 34.925 41.275 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "4fb2577d-2e1c-480c-9060-124510b35053")
-		(property "Reference" "#PWR0104"
-			(at 46.99 41.275 0)
+		(uuid "4e1e108c-304e-432e-80ab-c072f7977868")
+		(property "Reference" "#PWR0124"
+			(at 34.925 34.925 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4259,8 +4804,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VCC"
-			(at 39.37 41.275 0)
+		(property "Value" "GND"
+			(at 34.925 37.465 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4268,7 +4813,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 43.18 41.275 0)
+			(at 34.925 41.275 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4277,7 +4822,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 43.18 41.275 0)
+			(at 34.925 41.275 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4286,7 +4831,72 @@
 			)
 		)
 		(property "Description" ""
-			(at 43.18 41.275 0)
+			(at 34.925 41.275 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "539bd990-0b51-4e2b-9896-0ce30ea420b8")
+		)
+		(instances
+			(project "ambra"
+				(path "/eaef1172-3351-417c-bfc4-74a598f141cb"
+					(reference "#PWR0124")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VCC")
+		(at 50.8 33.655 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4fb2577d-2e1c-480c-9060-124510b35053")
+		(property "Reference" "#PWR0104"
+			(at 54.61 33.655 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VBAT"
+			(at 46.99 33.655 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 50.8 33.655 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 50.8 33.655 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 50.8 33.655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5552,6 +6162,154 @@
 			(project "kalmar"
 				(path "/eaef1172-3351-417c-bfc4-74a598f141cb"
 					(reference "#PWR0109")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "GCM32ER71E106KA42L:GCM32ER71E106KA42L")
+		(at 26.67 41.275 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "97a17c31-55a3-4caa-a4b9-08e54e44ba4d")
+		(property "Reference" "C1"
+			(at 27.94 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GCM32ER71E106KA42L"
+			(at 23.495 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "GCM32ER71E106KA42L:CAPC3225X270N"
+			(at 26.67 41.275 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 26.67 41.275 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 26.67 41.275 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Murata"
+			(at 26.67 41.275 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "Cap Ceramic 10uF 25V X7R 10% Pad SMD 1210 125°C Automotive T/R"
+			(at 26.67 41.275 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "3225 Murata"
+			(at 26.67 41.275 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 26.67 41.275 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/GCM32ER71E106KA42L/Murata/view-part/?ref=snap"
+			(at 26.67 41.275 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "GCM32ER71E106KA42L"
+			(at 26.67 41.275 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 26.67 41.275 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/GCM32ER71E106KA42L/Murata/view-part/?ref=eda"
+			(at 26.67 41.275 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "f52765a9-256b-495e-9c00-2c3b57b6c39e")
+		)
+		(pin "1"
+			(uuid "c99ec90a-25d0-446b-b8b7-e1f4625da18e")
+		)
+		(instances
+			(project ""
+				(path "/eaef1172-3351-417c-bfc4-74a598f141cb"
+					(reference "C1")
 					(unit 1)
 				)
 			)
