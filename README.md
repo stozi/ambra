@@ -30,9 +30,9 @@ Item     | Qty   | Notes
 [301230 li-po](https://aliexpress.ru/item/32732458079.html) | 2 | battery
 [JST PH right-angle 2-pin](https://www.aliexpress.com/item/1005008131930144.html) | 2 | battery connector
 [JST wire](https://www.aliexpress.com/item/1005001649158434.html) | 2 | solder & shrink tube to battery wires, no crimping needed
-[M3 bolts, 3mm](https://www.aliexpress.com/item/1005006662972635.html) | 2 | flathead, couples with magnet
 [ceramic 10μF 10V X7R 1210 capacitor](https://www.snapeda.com/parts/1210ZC106KAT2A/KYOCERA%20AVX/view-part/?ref=search&t=1210%2010%20%C2%B5F%2010V%20capacitor) | 2 | optional but highly recommended
 [ceramic 0.1μF 10V X7R 0603 capacitor](https://www.snapeda.com/parts/C0603C104K8RACTU/KEMET/view-part/?ref=dk&t=kemet%20c0603c104k8ractu&con_ref=None)| 2 | optional but highly recommended
+[M3 bolts, 3mm](https://www.aliexpress.com/item/1005006662972635.html) | 2 | flathead, couples with magnet
 M3 nuts, 1.8mm (ISO 4035) | 2 |
 M2.5 bolts, 4mm | 2 | tapered head, holds magnet
 M2.5 nuts, ~1.35mm (ISO 4035)| 2 |
