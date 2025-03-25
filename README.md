@@ -40,7 +40,7 @@ Item     | Qty   | Notes
 [M2 machine screws, 8mm](https://www.aliexpress.com/item/1005006662972635.html) | 2 | for thumb key bracket
 [M2 thin hex nuts](https://a.aliexpress.com/_EvCkuwM) | 6 |
 [Choc hotswap sockets](https://a.aliexpress.com/_Eu2JK5E) | 34 | optional
-TRRS connector | 2 | for wired builds
+[TRRS connector](https://a.aliexpress.com/_EwG61Dq) | 2 | for wired builds
 
 The pinout has been optimized so, until this gets accepted to ZMK, for QWERTY, set up your ZMK keymap for A. Dux as follows:
 
