@@ -21,7 +21,7 @@ Better put a non-conductive coating over the JST connector's mount points and re
 Item     | Qty   | Notes 
 ----------|-------|-------
 [SuperMini NRF52840 MCU](https://www.aliexpress.com/item/1005008099333183.html) | 2 | inc. sockets
-[Kailh Choc V1](https://aliexpress.ru/item/32959996455.html) | 34 | key switches
+[Kailh Choc V1](https://a.aliexpress.com/_EGNqHgc) | 34 | key switches
 [Keycaps](https://a.aliexpress.com/_EGNqLfE) | 34 | 1U
 [Magnets](https://www.aliexpress.com/item/1005006788058856.html) | 2 | D6×3mm annular cylinder
 [RTLECS MG03254 3-pin](https://a.aliexpress.com/_Ev5QIZa) | 2 pairs | pogo-pin connectors, straight + 90°
