@@ -24,7 +24,7 @@ Item     | Qty   | Notes
 [Kailh Choc V1](https://aliexpress.ru/item/32959996455.html) | 34 | key switches
 [Keycaps](https://aliexpress.ru/item/33026798318.html) | 34 | 1U
 [Magnets](https://www.aliexpress.com/item/1005006788058856.html) | 2 | D6×3mm annular cylinder
-[RTLECS MG03254 3-pin](https://sl.aliexpress.ru/p?key=pW35Gta) | 2 pairs | pogo-pin connectors, straight + 90°
+[RTLECS MG03254 3-pin](https://a.aliexpress.com/_Ev5QIZa) | 2 pairs | pogo-pin connectors, straight + 90°
 [MSK-12CO2](https://aliexpress.ru/item/1005001398386692.html) | 2 | power switch
 [SMD button 3×4×2](https://aliexpress.ru/item/1005003812819985.html) | 2 | reset switch
 [301230 li-po](https://aliexpress.ru/item/32732458079.html) | 2 | battery
