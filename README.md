@@ -36,8 +36,8 @@ Item     | Qty   | Notes
 [M3 thin hex nuts](https://a.aliexpress.com/_EvCkuwM) | 2 |
 M2.5 machine screws, 4mm | 2 | tapered head, holds magnet
 [M2.5 thin hex nuts](https://a.aliexpress.com/_EvCkuwM) | 2 |
-M2 machine screws, 4mm | 4 | for board bracket
-M2 machine screws, 8mm | 2 | for thumb key bracket
+[M2 machine screws, 4mm](https://www.aliexpress.com/item/1005006662972635.html) | 4 | for board bracket
+[M2 machine screws, 8mm](https://www.aliexpress.com/item/1005006662972635.html) | 2 | for thumb key bracket
 [M2 thin hex nuts](https://a.aliexpress.com/_EvCkuwM) | 6 | 
 TRRS connector | 2 | optional
 
