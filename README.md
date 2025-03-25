@@ -34,7 +34,7 @@ Item     | Qty   | Notes
 [ceramic 0.1μF 10V X7R 0603 capacitor](https://www.snapeda.com/parts/C0603C104K8RACTU/KEMET/view-part/?ref=dk&t=kemet%20c0603c104k8ractu&con_ref=None)| 2 | optional but highly recommended
 [M3 machine screws, 3mm](https://www.aliexpress.com/item/1005006662972635.html) | 2 | flathead, couples with magnet
 [M3 thin hex nuts](https://a.aliexpress.com/_EvCkuwM) | 2 |
-M2.5 machine screws, 4mm | 2 | tapered head, holds magnet
+[M2.5 machine screws, 4mm](https://a.aliexpress.com/_EzeQ9lA) | 2 | tapered head, holds magnet
 [M2.5 thin hex nuts](https://a.aliexpress.com/_EvCkuwM) | 2 |
 [M2 machine screws, 4mm](https://www.aliexpress.com/item/1005006662972635.html) | 4 | for board bracket
 [M2 machine screws, 8mm](https://www.aliexpress.com/item/1005006662972635.html) | 2 | for thumb key bracket
