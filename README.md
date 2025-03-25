@@ -33,12 +33,12 @@ Item     | Qty   | Notes
 [ceramic 10μF 10V X7R 1210 capacitor](https://www.snapeda.com/parts/1210ZC106KAT2A/KYOCERA%20AVX/view-part/?ref=search&t=1210%2010%20%C2%B5F%2010V%20capacitor) | 2 | optional but highly recommended
 [ceramic 0.1μF 10V X7R 0603 capacitor](https://www.snapeda.com/parts/C0603C104K8RACTU/KEMET/view-part/?ref=dk&t=kemet%20c0603c104k8ractu&con_ref=None)| 2 | optional but highly recommended
 [M3 machine screws, 3mm](https://www.aliexpress.com/item/1005006662972635.html) | 2 | flathead, couples with magnet
-[M3 DIN 439 hex nuts 1.8mm](https://a.aliexpress.com/_EvCkuwM) | 2 |
+[M3 DIN439 hex nuts](https://a.aliexpress.com/_EvCkuwM) | 2 |
 M2.5 machine screws, 4mm | 2 | tapered head, holds magnet
-[M2.5 DIN 439 hex nuts ~1.35mm](https://a.aliexpress.com/_EvCkuwM) | 2 |
-M2 machine screws, 3.5mm | 4 | for board bracket
-M2 machine screws, 7.5mm | 2 | for thumb key bracket
-[M2 DIN439 hex nuts ~1.1mm](https://a.aliexpress.com/_EvCkuwM) | 6 | 
+[M2.5 DIN439 hex nuts](https://a.aliexpress.com/_EvCkuwM) | 2 |
+M2 machine screws, 4mm | 4 | for board bracket
+M2 machine screws, 8mm | 2 | for thumb key bracket
+[M2 DIN439 hex nuts](https://a.aliexpress.com/_EvCkuwM) | 6 | 
 TRRS connector | 2 | optional
 
 The pinout has been optimized so, until this gets accepted to ZMK, for QWERTY, set up your ZMK keymap for A. Dux as follows:
