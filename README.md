@@ -1,7 +1,13 @@
-# ambra
+# Ambra
 A [Kalmar](https://github.com/aroum/kalmar)/[A. Dux](https://github.com/tapioki/cephalopoda/tree/main/Architeuthis%20dux)-based 34-key split ortho keyboard
 
-## Changes from Kalmar
+### Included from Kalmar
+
+- power switch
+- reset button
+- solder jumpers to keep the MCU upright
+
+### Changes from Kalmar
 
 - thumb keys mount at 90° with pogo pins and 3D-printed magnet brackets
 - JST PH battery connector
