@@ -51,8 +51,8 @@ Item     | Qty   | Notes
 The pinout has been optimized so, until this gets accepted to ZMK, for QWERTY, set up your ZMK keymap for A. Dux as follows:
 
 ```
-     X E D G T  Y H K I .
-lthumb S V C W  O , M L rthumb
-rthumb Z Q A F  J ; P ? lthumb
-           R B  N U
+ Q  E D G T  Y H K I  P
+rt  X C S W  O L , .  rt
+ V lt A Z F  J ? ; lt M
+        B R  U N
 ```
