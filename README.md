@@ -54,5 +54,5 @@ The pinout has been optimized so, until this gets accepted to ZMK, for QWERTY, s
 Q  E D G T  Y H K I  P
 rt X C S W  O L , . rt
 V lt A Z F  J ? ; lt M
-        B R  U N
+       B R  U N
 ```
