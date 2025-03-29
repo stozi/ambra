@@ -1565,303 +1565,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "TESDU12VRGG:TESDU12VRGG"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "D"
-				(at -5.08 2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" "TESDU12VRGG"
-				(at -5.08 -5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" "TESDU12VRGG:DIO_TESDU12VRGG"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "MF" "Taiwan Semiconductor"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MAXIMUM_PACKAGE_HEIGHT" "0.85 mm"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Package" "0603 Taiwan Semiconductor"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Price" "None"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Check_prices" "https://www.snapeda.com/parts/TESDU12VRGG/taiwan/view-part/?ref=eda"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "STANDARD" "Manufacturer Recommendations"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "PARTREV" "H1601"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "SnapEDA_Link" "https://www.snapeda.com/parts/TESDU12VRGG/taiwan/view-part/?ref=snap"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MP" "TESDU12VRGG"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Description_1" "33V Clamp 5A Ipp Tvs Diode Surface Mount 0603"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Availability" "In Stock"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MANUFACTURER" "Taiwan Semiconductor"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(symbol "TESDU12VRGG_0_0"
-				(polyline
-					(pts
-						(xy -1.27 0) (xy -2.54 0)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0.762) (xy 0.254 1.016)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy -1.27 -0.762) (xy -1.27 0.762) (xy 0 0)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy 1.27 0.762) (xy 1.27 -0.762) (xy 0 0)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -0.762) (xy -0.254 -1.016)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -0.762) (xy 0 0.762)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 0) (xy 2.54 0)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -5.08 0 0)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "enki_lib:MJ-4PP-9"
 			(pin_names
 				(offset 1.016)
@@ -2406,34 +2109,16 @@
 		)
 	)
 	(junction
-		(at 113.03 31.115)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "31336742-807d-4656-9dea-89b34ef80a7c")
-	)
-	(junction
-		(at 256.54 125.095)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5d60755d-3c37-4755-a17e-a19052545420")
-	)
-	(junction
-		(at 93.345 31.115)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "60f7d0a0-1cb4-4bb7-8772-2506e535fbbc")
-	)
-	(junction
-		(at 100.965 31.115)
+		(at 31.75 33.655)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "74af08ca-f1c1-47d4-ad96-dbf7163fe361")
 	)
 	(junction
-		(at 105.41 31.115)
+		(at 39.37 33.655)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "761f1917-43a6-45b7-8450-7c244ecfdccf")
+		(uuid "74b0e900-f005-4901-993c-14cbcb46593b")
 	)
 	(junction
 		(at 64.77 139.7)
@@ -2442,25 +2127,13 @@
 		(uuid "7fc8e869-547c-4f40-ae81-4721afc91b6c")
 	)
 	(junction
-		(at 246.38 125.095)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "919496a4-7189-4f72-9356-49aa024b6c7c")
-	)
-	(junction
-		(at 104.14 31.115)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "dc70f63b-1acd-47ac-9e5c-808cfd048b1e")
-	)
-	(junction
-		(at 88.9 40.005)
+		(at 86.36 40.005)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f2126c8f-943d-41ee-b3a3-5e884e77f11d")
 	)
 	(no_connect
-		(at 46.355 26.035)
+		(at 40.64 24.765)
 		(uuid "363189af-2faa-46a4-b025-5a779d801f2e")
 	)
 	(wire
@@ -2475,13 +2148,13 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 31.115) (xy 105.41 31.115)
+			(xy 203.835 123.19) (xy 203.2 123.19)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "05156e3f-b329-4cd2-838d-b0a369ed0e73")
+		(uuid "0216f46a-62d0-4673-a8df-2bcffe1cac3b")
 	)
 	(wire
 		(pts
@@ -2495,13 +2168,23 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 118.11) (xy 250.19 118.11)
+			(xy 248.92 118.11) (xy 250.19 118.11)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "0c357f90-47aa-4cd2-bf0f-969d4e9cdd0f")
+	)
+	(wire
+		(pts
+			(xy 50.8 33.655) (xy 39.37 33.655)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e0ef8b9-e978-4b8d-8ba8-2d8b8f902043")
 	)
 	(wire
 		(pts
@@ -2515,16 +2198,6 @@
 	)
 	(wire
 		(pts
-			(xy 100.965 31.115) (xy 104.14 31.115)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "307f4c9a-61d5-48c9-bd24-260c3254eeae")
-	)
-	(wire
-		(pts
 			(xy 64.77 139.7) (xy 67.31 139.7)
 		)
 		(stroke
@@ -2532,26 +2205,6 @@
 			(type default)
 		)
 		(uuid "32d316ec-0dcf-408e-b976-4aa8f0e5e9aa")
-	)
-	(wire
-		(pts
-			(xy 46.355 31.115) (xy 50.8 31.115)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "386faf3f-2adf-472a-84bf-bd511edf2429")
-	)
-	(wire
-		(pts
-			(xy 86.36 31.115) (xy 93.345 31.115)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3f003333-fa5e-405f-bebf-a7f5d69f6917")
 	)
 	(wire
 		(pts
@@ -2595,16 +2248,6 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 41.275) (xy 88.9 41.275)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "53fda1fb-12bd-4536-80e1-aab5c0e3fc58")
-	)
-	(wire
-		(pts
 			(xy 149.225 33.655) (xy 149.225 37.465)
 		)
 		(stroke
@@ -2615,6 +2258,16 @@
 	)
 	(wire
 		(pts
+			(xy 50.8 27.305) (xy 50.8 31.115)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "56b87c10-6175-4b55-a145-fd0b7af5d985")
+	)
+	(wire
+		(pts
 			(xy 184.785 33.655) (xy 184.785 37.465)
 		)
 		(stroke
@@ -2622,16 +2275,6 @@
 			(type default)
 		)
 		(uuid "56f0a67a-a93a-477a-9778-70fe2cfeeb5a")
-	)
-	(wire
-		(pts
-			(xy 246.38 125.095) (xy 246.38 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "67be68d2-3c33-429e-b47f-2109b26a5402")
 	)
 	(wire
 		(pts
@@ -2655,6 +2298,16 @@
 	)
 	(wire
 		(pts
+			(xy 196.85 123.19) (xy 198.12 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "73c0ef2e-40f4-443e-8ebc-561d8cfff0a1")
+	)
+	(wire
+		(pts
 			(xy 64.77 139.7) (xy 64.77 140.97)
 		)
 		(stroke
@@ -2662,16 +2315,6 @@
 			(type default)
 		)
 		(uuid "73d3ac24-e5bf-4f7e-8911-957fe65cc3c2")
-	)
-	(wire
-		(pts
-			(xy 256.54 125.095) (xy 256.54 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "81bcea27-174d-4c60-9467-a420722e3161")
 	)
 	(wire
 		(pts
@@ -2685,13 +2328,23 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 41.275) (xy 88.9 40.005)
+			(xy 86.36 41.275) (xy 86.36 40.005)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "9666bb6a-0c1d-4c92-be6d-94a465ec5c51")
+	)
+	(wire
+		(pts
+			(xy 144.145 110.49) (xy 144.78 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9869a23a-70fc-44a0-ac75-f6fc1d0429fe")
 	)
 	(wire
 		(pts
@@ -2725,7 +2378,7 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 118.11) (xy 252.73 118.11)
+			(xy 254 118.11) (xy 252.73 118.11)
 		)
 		(stroke
 			(width 0)
@@ -2745,27 +2398,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 40.005) (xy 93.98 40.005)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c42c1511-057a-4061-a3f6-7d651bc4165a")
-	)
-	(wire
-		(pts
-			(xy 88.9 38.735) (xy 86.36 38.735)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d5a7688c-7438-4b6d-999f-4f2a3cb18fd6")
-	)
-	(wire
-		(pts
-			(xy 113.03 31.115) (xy 105.41 31.115)
+			(xy 24.13 33.655) (xy 31.75 33.655)
 		)
 		(stroke
 			(width 0)
@@ -2775,7 +2408,7 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 36.195) (xy 50.8 36.195)
+			(xy 44.45 36.195) (xy 50.8 36.195)
 		)
 		(stroke
 			(width 0)
@@ -2785,7 +2418,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.965 31.115) (xy 93.345 31.115)
+			(xy 31.75 33.655) (xy 39.37 33.655)
 		)
 		(stroke
 			(width 0)
@@ -2795,13 +2428,23 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 40.005) (xy 88.9 38.735)
+			(xy 86.36 40.005) (xy 86.36 38.735)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "f1aefde5-e9fa-4acf-89bf-f50cdbbc3bff")
+	)
+	(wire
+		(pts
+			(xy 150.495 110.49) (xy 149.86 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f2736778-3813-4c86-8e1c-63fbbde89625")
 	)
 	(wire
 		(pts
@@ -2989,7 +2632,7 @@
 	)
 	(global_label "r4c2"
 		(shape input)
-		(at 203.2 123.19 270)
+		(at 203.835 123.19 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2999,7 +2642,7 @@
 		)
 		(uuid "18208121-3872-4be3-a687-40854be3e1c8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 203.2 131.9242 90)
+			(at 203.835 131.9242 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3291,9 +2934,9 @@
 			)
 		)
 	)
-	(global_label "VCC"
+	(global_label "VBAT"
 		(shape input)
-		(at 36.195 28.575 180)
+		(at 40.64 29.845 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3303,7 +2946,7 @@
 		)
 		(uuid "7274c82d-0cb9-47de-b093-7d848f491410")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 29.5812 28.575 0)
+			(at 33.24 29.845 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3422,7 +3065,7 @@
 	)
 	(global_label "db2"
 		(shape input)
-		(at 144.78 110.49 90)
+		(at 144.145 110.49 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3432,7 +3075,7 @@
 		)
 		(uuid "939b4315-9283-4ca3-ba33-d9a2adbbe852")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 144.78 102.6991 90)
+			(at 144.145 102.6991 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3787,6 +3430,28 @@
 			)
 		)
 	)
+	(global_label "VBAT"
+		(shape input)
+		(at 24.13 33.655 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f8e134fe-a589-4437-946a-59e70c404bd1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 16.73 33.655 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(symbol
 		(lib_id "enki_lib:SW_PUSH")
 		(at 192.405 52.705 0)
@@ -3856,7 +3521,7 @@
 	)
 	(symbol
 		(lib_id "C0603C104K8RACTU:C0603C104K8RACTU")
-		(at 110.49 31.115 180)
+		(at 26.67 33.655 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3864,7 +3529,7 @@
 		(dnp no)
 		(uuid "0469b7e2-eeab-4b63-b160-92a1544e5e75")
 		(property "Reference" "C2"
-			(at 106.045 38.1 0)
+			(at 27.94 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3872,7 +3537,7 @@
 			)
 		)
 		(property "Value" "C0603C104K8RACTU"
-			(at 103.505 35.56 0)
+			(at 22.86 29.845 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3880,7 +3545,7 @@
 			)
 		)
 		(property "Footprint" "C0603C104K8RACTU:CAPC1608X95N"
-			(at 110.49 31.115 0)
+			(at 26.67 33.655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3890,7 +3555,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 110.49 31.115 0)
+			(at 26.67 33.655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3899,7 +3564,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 110.49 31.115 0)
+			(at 26.67 33.655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3908,7 +3573,7 @@
 			)
 		)
 		(property "DigiKey_Part_Number" "399-C0603C104K8RACTUTR-ND"
-			(at 110.49 31.115 0)
+			(at 26.67 33.655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3918,7 +3583,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/C0603C104K8RACTU/KEMET/view-part/?ref=snap"
-			(at 110.49 31.115 0)
+			(at 26.67 33.655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3928,7 +3593,7 @@
 			)
 		)
 		(property "Description_1" "0.1 µF ±10% 10V Ceramic Capacitor X7R 0603 (1608 Metric)"
-			(at 110.49 31.115 0)
+			(at 26.67 33.655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3938,7 +3603,7 @@
 			)
 		)
 		(property "MF" "KEMET"
-			(at 110.49 31.115 0)
+			(at 26.67 33.655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3948,7 +3613,7 @@
 			)
 		)
 		(property "Package" "603-2 KEMET"
-			(at 110.49 31.115 0)
+			(at 26.67 33.655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3958,7 +3623,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/C0603C104K8RACTU/KEMET/view-part/?ref=eda"
-			(at 110.49 31.115 0)
+			(at 26.67 33.655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3968,7 +3633,7 @@
 			)
 		)
 		(property "MP" "C0603C104K8RACTU"
-			(at 110.49 31.115 0)
+			(at 26.67 33.655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3994,7 +3659,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 198.12 123.19 0)
+		(at 196.85 123.19 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4002,7 +3667,7 @@
 		(dnp no)
 		(uuid "0674c5a1-ca4b-4b6b-aa60-3847e1a37d52")
 		(property "Reference" "#PWR0121"
-			(at 198.12 129.54 0)
+			(at 196.85 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4011,7 +3676,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 198.247 127.5842 0)
+			(at 196.977 127.5842 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4019,7 +3684,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 198.12 123.19 0)
+			(at 196.85 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4028,7 +3693,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 198.12 123.19 0)
+			(at 196.85 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4037,7 +3702,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 198.12 123.19 0)
+			(at 196.85 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4635,7 +4300,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 246.38 125.095 180)
+		(at 248.92 118.11 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4643,7 +4308,7 @@
 		(dnp no)
 		(uuid "4208e41d-1d0a-40b9-bf94-fcbeb6562f9d")
 		(property "Reference" "#PWR0122"
-			(at 246.38 121.285 0)
+			(at 248.92 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4651,8 +4316,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VCC"
-			(at 246.38 128.905 0)
+		(property "Value" "VBAT"
+			(at 248.92 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4660,7 +4325,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 246.38 125.095 0)
+			(at 248.92 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4669,7 +4334,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 246.38 125.095 0)
+			(at 248.92 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4678,7 +4343,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 246.38 125.095 0)
+			(at 248.92 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4825,136 +4490,6 @@
 			(project "kalmar"
 				(path "/eaef1172-3351-417c-bfc4-74a598f141cb"
 					(reference "SWr1c1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 104.14 31.115 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "4e1e108c-304e-432e-80ab-c072f7977868")
-		(property "Reference" "#PWR0124"
-			(at 104.14 24.765 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 104.14 27.305 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 104.14 31.115 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 104.14 31.115 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 104.14 31.115 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "539bd990-0b51-4e2b-9896-0ce30ea420b8")
-		)
-		(instances
-			(project "ambra"
-				(path "/eaef1172-3351-417c-bfc4-74a598f141cb"
-					(reference "#PWR0124")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:VCC")
-		(at 50.8 33.655 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "4fb2577d-2e1c-480c-9060-124510b35053")
-		(property "Reference" "#PWR0104"
-			(at 54.61 33.655 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "VBAT"
-			(at 46.99 33.655 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 50.8 33.655 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 50.8 33.655 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 50.8 33.655 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "3b9c5ffd-e59b-402d-8c5e-052f7ca643a4")
-		)
-		(instances
-			(project "kalmar"
-				(path "/eaef1172-3351-417c-bfc4-74a598f141cb"
-					(reference "#PWR0104")
 					(unit 1)
 				)
 			)
@@ -5299,7 +4834,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 149.86 110.49 180)
+		(at 150.495 110.49 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5307,7 +4842,7 @@
 		(dnp no)
 		(uuid "7498399b-6a3f-4cac-9eb8-98653740d745")
 		(property "Reference" "#PWR04"
-			(at 149.86 104.14 0)
+			(at 150.495 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5316,7 +4851,7 @@
 			)
 		)
 		(property "Value" "GND2"
-			(at 149.733 106.0958 0)
+			(at 150.368 106.0958 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5324,7 +4859,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 149.86 110.49 0)
+			(at 150.495 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5333,7 +4868,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 149.86 110.49 0)
+			(at 150.495 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5342,7 +4877,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 149.86 110.49 0)
+			(at 150.495 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5756,7 +5291,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 256.54 125.095 0)
+		(at 254 118.11 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5764,7 +5299,7 @@
 		(dnp no)
 		(uuid "86f6faec-7eee-404c-a73a-2ae625f33d8c")
 		(property "Reference" "#PWR0123"
-			(at 256.54 131.445 0)
+			(at 254 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5773,7 +5308,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 256.54 128.905 0)
+			(at 254 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5781,7 +5316,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 256.54 125.095 0)
+			(at 254 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5790,7 +5325,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 256.54 125.095 0)
+			(at 254 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5799,7 +5334,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 256.54 125.095 0)
+			(at 254 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6016,7 +5551,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 43.18 36.195 270)
+		(at 44.45 36.195 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6024,7 +5559,7 @@
 		(dnp no)
 		(uuid "90d35384-f06a-4545-962c-4bca2024ee51")
 		(property "Reference" "#PWR0115"
-			(at 36.83 36.195 0)
+			(at 38.1 36.195 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6033,7 +5568,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 39.37 36.195 0)
+			(at 40.64 36.195 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6041,7 +5576,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 43.18 36.195 0)
+			(at 44.45 36.195 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6050,7 +5585,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 43.18 36.195 0)
+			(at 44.45 36.195 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6059,7 +5594,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 43.18 36.195 0)
+			(at 44.45 36.195 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6213,7 +5748,7 @@
 	)
 	(symbol
 		(lib_id "GCM32ER71E106KA42L:GCM32ER71E106KA42L")
-		(at 95.885 31.115 0)
+		(at 36.83 33.655 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6221,7 +5756,7 @@
 		(dnp no)
 		(uuid "97a17c31-55a3-4caa-a4b9-08e54e44ba4d")
 		(property "Reference" "C1"
-			(at 97.155 26.67 0)
+			(at 35.56 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6229,7 +5764,7 @@
 			)
 		)
 		(property "Value" "GCM32ER71E106KA42L"
-			(at 92.71 24.13 0)
+			(at 28.575 37.465 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6237,7 +5772,7 @@
 			)
 		)
 		(property "Footprint" "GCM32ER71E106KA42L:CAPC3225X270N"
-			(at 95.885 31.115 0)
+			(at 36.83 33.655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6247,7 +5782,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 95.885 31.115 0)
+			(at 36.83 33.655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6256,7 +5791,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 95.885 31.115 0)
+			(at 36.83 33.655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6265,7 +5800,7 @@
 			)
 		)
 		(property "MF" "Murata"
-			(at 95.885 31.115 0)
+			(at 36.83 33.655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6275,7 +5810,7 @@
 			)
 		)
 		(property "Description_1" "Cap Ceramic 10uF 25V X7R 10% Pad SMD 1210 125°C Automotive T/R"
-			(at 95.885 31.115 0)
+			(at 36.83 33.655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6285,7 +5820,7 @@
 			)
 		)
 		(property "Package" "3225 Murata"
-			(at 95.885 31.115 0)
+			(at 36.83 33.655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6295,7 +5830,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 95.885 31.115 0)
+			(at 36.83 33.655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6305,7 +5840,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/GCM32ER71E106KA42L/Murata/view-part/?ref=snap"
-			(at 95.885 31.115 0)
+			(at 36.83 33.655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6315,7 +5850,7 @@
 			)
 		)
 		(property "MP" "GCM32ER71E106KA42L"
-			(at 95.885 31.115 0)
+			(at 36.83 33.655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6325,7 +5860,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 95.885 31.115 0)
+			(at 36.83 33.655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6335,7 +5870,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/GCM32ER71E106KA42L/Murata/view-part/?ref=eda"
-			(at 95.885 31.115 0)
+			(at 36.83 33.655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6558,7 +6093,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPDT")
-		(at 41.275 28.575 0)
+		(at 45.72 27.305 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6566,7 +6101,7 @@
 		(dnp no)
 		(uuid "a48f5fff-52e4-4ae8-8faa-7084c7ae8a28")
 		(property "Reference" "SW1"
-			(at 41.275 21.336 0)
+			(at 42.545 19.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6574,7 +6109,7 @@
 			)
 		)
 		(property "Value" "SW_SPDT"
-			(at 41.275 23.6474 0)
+			(at 43.18 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6582,7 +6117,7 @@
 			)
 		)
 		(property "Footprint" "my syms-foots:switch_MSK-12C02_smd_x2_topor"
-			(at 41.275 28.575 0)
+			(at 45.72 27.305 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6591,7 +6126,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 41.275 28.575 0)
+			(at 45.72 27.305 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6600,7 +6135,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 41.275 28.575 0)
+			(at 45.72 27.305 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7167,72 +6702,6 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 113.03 31.115 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "db532ed2-914c-41b4-b389-de2bf235d0a7")
-		(property "Reference" "#PWR0116"
-			(at 119.38 31.115 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 116.84 31.115 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 113.03 31.115 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 113.03 31.115 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 113.03 31.115 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9e427954-2486-4c91-89b5-6af73a073442")
-		)
-		(instances
-			(project "kalmar"
-				(path "/eaef1172-3351-417c-bfc4-74a598f141cb"
-					(reference "#PWR0116")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
 		(at 182.245 67.945 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7615,195 +7084,6 @@
 		)
 	)
 	(symbol
-		(lib_id "TESDU12VRGG:TESDU12VRGG")
-		(at 251.46 125.095 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e3eca554-efb3-4f4d-b0c7-feab82860e49")
-		(property "Reference" "D1"
-			(at 251.46 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "TESDU12VRGG"
-			(at 251.46 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "my syms-foots:TVS-P6SMBJ5.0CA"
-			(at 251.46 125.095 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 251.46 125.095 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 251.46 125.095 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" "Taiwan Semiconductor"
-			(at 251.46 125.095 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "0.85 mm"
-			(at 251.46 125.095 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "0603 Taiwan Semiconductor"
-			(at 251.46 125.095 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Price" "None"
-			(at 251.46 125.095 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/TESDU12VRGG/taiwan/view-part/?ref=eda"
-			(at 251.46 125.095 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 251.46 125.095 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "H1601"
-			(at 251.46 125.095 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/TESDU12VRGG/taiwan/view-part/?ref=snap"
-			(at 251.46 125.095 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "TESDU12VRGG"
-			(at 251.46 125.095 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "33V Clamp 5A Ipp Tvs Diode Surface Mount 0603"
-			(at 251.46 125.095 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 251.46 125.095 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Taiwan Semiconductor"
-			(at 251.46 125.095 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "30d7fb97-731a-46d1-98fe-49e5972c37e3")
-		)
-		(pin "1"
-			(uuid "b5d97b9c-388e-4936-82a2-27b6f78678c8")
-		)
-		(instances
-			(project ""
-				(path "/eaef1172-3351-417c-bfc4-74a598f141cb"
-					(reference "D1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 146.685 67.945 0)
 		(unit 1)
@@ -7936,7 +7216,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 93.98 40.005 90)
+		(at 86.36 40.005 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7944,7 +7224,7 @@
 		(dnp no)
 		(uuid "f4117d3e-819d-4d33-bf85-69e28ba32fe5")
 		(property "Reference" "#PWR0103"
-			(at 100.33 40.005 0)
+			(at 92.71 40.005 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7953,7 +7233,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 97.79 40.005 0)
+			(at 90.17 40.005 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7961,7 +7241,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 93.98 40.005 0)
+			(at 86.36 40.005 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7970,7 +7250,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 93.98 40.005 0)
+			(at 86.36 40.005 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7979,7 +7259,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 93.98 40.005 0)
+			(at 86.36 40.005 0)
 			(effects
 				(font
 					(size 1.27 1.27)
