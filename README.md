@@ -39,8 +39,7 @@ Item     | Qty   | Notes
 [M3 machine screws, 3mm](https://www.aliexpress.com/item/1005006662972635.html) | 2 | flathead, couples with magnet
 [M3 thin hex nuts](https://a.aliexpress.com/_EvCkuwM) | 2 |
 [M2 tapered head machine screws, 7mm](https://a.aliexpress.com/_EzeQ9lA) | 2 | holds magnet
-[M2 flat head machine screws, 5mm](https://www.aliexpress.com/item/1005006662972635.html) | 4 | for board bracket
-[M2 flat head machine screws, 8mm](https://www.aliexpress.com/item/1005006662972635.html) | 2 | for thumb key bracket
+[M2 flat head machine screws](https://www.aliexpress.com/item/1005006662972635.html) | 4×5mm, 2×8mm | for brackets
 [M2 thin hex nuts](https://a.aliexpress.com/_EvCkuwM) | 8 |
 [Choc hotswap sockets](https://a.aliexpress.com/_Eu2JK5E) | 34 | optional
 [TRRS jack](https://a.aliexpress.com/_EwG61Dq) | 2 | optional, for wired builds
