@@ -1,5 +1,5 @@
 # Ambra
-A [Kalmar](https://github.com/aroum/kalmar)/[A. Dux](https://github.com/tapioki/cephalopoda/tree/main/Architeuthis%20dux)-based 34-key split ortho keyboard
+A [Kalmar](https://github.com/aroum/kalmar)/[A. Dux](https://github.com/tapioki/cephalopoda/tree/main/Architeuthis%20dux)-based 34-key split ortho keyboard. [ZMK shield](https://github.com/stozi/zmk-keyboard-ambra)
 
 ### Included from Kalmar
 
