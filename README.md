@@ -44,12 +44,3 @@ Item     | Qty   | Notes
 [M2 thin hex nuts](https://a.aliexpress.com/_EvCkuwM) | 8 |
 [Choc hotswap sockets](https://a.aliexpress.com/_Eu2JK5E) | 34 | optional
 [TRRS jack](https://a.aliexpress.com/_EwG61Dq) | 2 | optional, for wired builds
-
-The pinout has been optimized so, until this gets accepted to ZMK, for QWERTY, set up your ZMK keymap for A. Dux as follows:
-
-```
-X  E D G T  Y H K I  .
-rt S V W C  , O M L lt
-F lt Q Z A  ; ? P rt J
-       B R  U N
-```
