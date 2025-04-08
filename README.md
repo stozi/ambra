@@ -6,11 +6,11 @@ A [Kalmar](https://github.com/aroum/kalmar)/[A. Dux](https://github.com/tapioki/
 - power switch
 - reset button
 - solder jumpers to keep the MCU upright
-- besides Kailh Choc, support for Gateron KS-33, both hotswap only
 
 ### Changes from Kalmar
 
 - thumb keys mount at 90° with pogo pins and 3D-printed magnet brackets
+- besides Kailh Choc, support for Gateron KS-33, both hotswap only
 - JST PH battery connector
 - ground plane for some ESD protection, new pinout
 
