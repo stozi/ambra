@@ -6,6 +6,7 @@ A [Kalmar](https://github.com/aroum/kalmar)/[A. Dux](https://github.com/tapioki/
 - power switch
 - reset button
 - solder jumpers to keep the MCU upright
+- besides Kailh Choc, support for Gateron KS-33, both hotswap only
 
 ### Changes from Kalmar
 
