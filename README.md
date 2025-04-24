@@ -6,6 +6,7 @@ A [Kalmar](https://github.com/aroum/kalmar)/[A. Dux](https://github.com/tapioki/
 - power switch
 - reset button
 - solder jumpers to keep the MCU upright
+- perforations on the tab for the connector between the right & left boards
 
 ### Changes from Kalmar
 
