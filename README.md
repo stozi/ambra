@@ -33,7 +33,7 @@ Item     | Qty   | Notes
 [Choc hotswap sockets](https://a.aliexpress.com/_Eu2JK5E) | 34 | Alternatively, Gateron KS-33 hotswap sockets
 [Keycaps](https://a.aliexpress.com/_EGNqLfE) | 34 | 1U. If using KS-33 switches, STL files are provided to print your own 'MX stem, Choc-1U-spaced' caps
 [Magnets](https://www.aliexpress.com/item/1005006788058856.html) | 2 | D6×3mm annular cylinder
-[RTLECS MG03254 3-pin](https://a.aliexpress.com/_Ev5QIZa) | 2 90° female, 2 straight male | magnetic pogo-pin connectors
+[RTLECS MG03254 3-pin](https://a.aliexpress.com/_Ev5QIZa) | 2 straight m, 2 90° f | magnetic pogo-pin connectors
 [MSK-12CO2](https://aliexpress.ru/item/1005001398386692.html) | 2 | power switch
 [SMD button 3×4×2](https://aliexpress.ru/item/1005003812819985.html) | 2 | reset switch
 [301230 li-po](https://aliexpress.ru/item/32732458079.html) | 2 | battery
@@ -44,4 +44,4 @@ Item     | Qty   | Notes
 [M2 tapered head machine screws, 7mm](https://a.aliexpress.com/_EzeQ9lA) | 2 | holds magnet
 [M2 flat head machine screws](https://www.aliexpress.com/item/1005006662972635.html) | 4×5mm, 2×8mm | for brackets
 [M2 thin hex nuts](https://a.aliexpress.com/_EvCkuwM) | 8 |
-OPTIONAL: [RTLECS MG03254 cable](https://www.aliexpress.com/item/1005007988032729.html) | 2 (plus 2 more RTLECS 90° female connectors as listed above) | For a wired build: cut, solder and shrink-tube the two wires together
+OPTIONAL: [RTLECS MG03254 cable](https://www.aliexpress.com/item/1005007988032729.html) and extra RTLECS 90° female connectors as listed above | 2 of each | For a wired build: cut, solder and shrink-tube the two wires together
