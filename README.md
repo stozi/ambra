@@ -12,7 +12,7 @@ A [Kalmar](https://github.com/aroum/kalmar)/[A. Dux](https://github.com/tapioki/
 - thumb keys mount at 90° with pogo pins and 3D-printed magnet brackets
 - besides Kailh Choc, support for Gateron KS-33, both hotswap only
 - JST PH battery connector
-- TRRS jack switched to a pogo pin connector to avoid shorting
+- Switched the TRRS jack to the same pogo pin connector used for the thumb keys to prevent shorting
 - ground plane for some ESD protection, new pinout
 
 Thumb keys are mounted at 90° magnetically on 3D printed brackets. Alternatively, you can run a 9mm or longer M2.5 bolt through both brackets if you don't need fold-down packability.
