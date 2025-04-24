@@ -18,7 +18,7 @@ A [Kalmar](https://github.com/aroum/kalmar)/[A. Dux](https://github.com/tapioki/
 
 Thumb keys are mounted at 90° magnetically on 3D printed brackets. Alternatively, you can run a 9mm or longer M2.5 bolt through both brackets if you don't need fold-down packability.
 
-Better epoxy a piece of plastic to overhang the connectors on both ends of your daughter-board wire to prevent connecting it upside-down on either side. Also, put a non-conductive coating over the JST connector's mount points and reenforce the pogo-pin units with a smidgen of epoxy putty just to relieve the pins of any leverage. In testing.
+Consider epoxying a piece of plastic to overhang the connectors on both ends of the daughter-board cable to prevent connecting it upside-down on either side. Also, put a non-conductive coating over the JST connector's mount points and reenforce the pogo-pin units with a smidgen of epoxy putty just to relieve the pins of any leverage. In testing.
 
 ![Alt text](https://github.com/stozi/ambra/blob/main/ambra.png?raw=true)
 ![Alt text](https://github.com/stozi/ambra/blob/main/ambra-back.png?raw=true)
@@ -29,10 +29,11 @@ Better epoxy a piece of plastic to overhang the connectors on both ends of your 
 Item     | Qty   | Notes 
 ----------|-------|-------
 [SuperMini NRF52840 MCU](https://www.aliexpress.com/item/1005008099333183.html) | 2 | inc. sockets
-[Kailh Choc V1](https://a.aliexpress.com/_EGNqHgc) | 34 | key switches
-[Keycaps](https://a.aliexpress.com/_EGNqLfE) | 34 | 1U
+[Kailh Choc V1](https://a.aliexpress.com/_EGNqHgc) | 34 | key switches. Also supports Gateron KS-33
+[Choc hotswap sockets](https://a.aliexpress.com/_Eu2JK5E) | 34 | Alternatively, Gateron KS-33 hotswap sockets
+[Keycaps](https://a.aliexpress.com/_EGNqLfE) | 34 | 1U. Use the STL files to print your own MX stem, choc-1U-spaced caps if using KS-33 switches
 [Magnets](https://www.aliexpress.com/item/1005006788058856.html) | 2 | D6×3mm annular cylinder
-[RTLECS MG03254 3-pin](https://a.aliexpress.com/_Ev5QIZa) | 4 90°, 2 straight, 2 wires | pogo-pin connectors, solder and shrink-tube the two wires together 
+[RTLECS MG03254 3-pin](https://a.aliexpress.com/_Ev5QIZa) | 2 90°, 2 straight | magnetic pogo-pin connectors
 [MSK-12CO2](https://aliexpress.ru/item/1005001398386692.html) | 2 | power switch
 [SMD button 3×4×2](https://aliexpress.ru/item/1005003812819985.html) | 2 | reset switch
 [301230 li-po](https://aliexpress.ru/item/32732458079.html) | 2 | battery
@@ -43,4 +44,4 @@ Item     | Qty   | Notes
 [M2 tapered head machine screws, 7mm](https://a.aliexpress.com/_EzeQ9lA) | 2 | holds magnet
 [M2 flat head machine screws](https://www.aliexpress.com/item/1005006662972635.html) | 4×5mm, 2×8mm | for brackets
 [M2 thin hex nuts](https://a.aliexpress.com/_EvCkuwM) | 8 |
-[Choc hotswap sockets](https://a.aliexpress.com/_Eu2JK5E) | 34 |
+OPTIONAL: [RTLECS MG03254 cable](https://www.aliexpress.com/item/1005007988032729.html) | 2 (plus 2 more 3-pin RTLECS MG03254 90° connectors as listed above) | For a wired build: cut, solder and shrink-tube the two wires together
