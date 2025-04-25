@@ -32,13 +32,13 @@ Item     | Qty   | Notes
 [Kailh Choc V1](https://a.aliexpress.com/_EGNqHgc) | 34 | key switches. Alternatively, [Gateron KS-33](https://a.aliexpress.com/_EuUuYVU)
 [Choc hotswap sockets](https://a.aliexpress.com/_Eu2JK5E) | 34 | Alternatively, [Gateron KS-33 hotswap sockets](https://a.aliexpress.com/_EGlN42e)
 [Keycaps](https://a.aliexpress.com/_EGNqLfE) | 34 | 1U. If using KS-33 switches, STL files are provided to print your own 'MX stem, Choc-1U-spaced' caps
-[Magnets](https://www.aliexpress.com/item/1005006788058856.html) | 2 | D6×3mm annular cylinder
+[Magnets](https://a.aliexpress.com/_EGMQ442) | 2 | D6×3mm annular cylinder
 [RTLECS MG03254 3-pin](https://a.aliexpress.com/_Ev5QIZa) | 2 straight m, 2 90° f | magnetic pogo-pin connectors
 [MSK-12CO2](https://aliexpress.ru/item/1005001398386692.html) | 2 | power switch
 [SMD button 3×4×2](https://aliexpress.ru/item/1005003812819985.html) | 2 | reset switch
 [301230 li-po](https://aliexpress.ru/item/32732458079.html) | 2 | battery
 [JST PH right-angle 2-pin](https://www.aliexpress.com/item/1005008131930144.html) | 2 | battery connector
-[JST wire](https://www.aliexpress.com/item/1005001649158434.html) | 2 | solder & shrink tube to battery wires, no crimping needed
+[JST wire](https://www.aliexpress.com/item/1005001649158434.html) | 2 | solder & shrink tube to battery wires, no crimping needed, or battery already with connector 
 [M3 machine screws, 3mm](https://www.aliexpress.com/item/1005006662972635.html) | 2 | flathead, couples with magnet
 [M3 thin hex nuts](https://a.aliexpress.com/_EvCkuwM) | 2 |
 [M2 tapered head machine screws, 7mm](https://a.aliexpress.com/_EzeQ9lA) | 2 | holds magnet
