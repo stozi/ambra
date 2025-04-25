@@ -28,7 +28,7 @@ Consider epoxying/gluing a flat piece of plastic on top of the connectors on bot
 
 Item     | Qty   | Notes 
 ----------|-------|-------
-[SuperMini NRF52840 MCU](https://www.aliexpress.com/item/1005008099333183.html) | 2 | inc. sockets
+[SuperMini NRF52840 MCU](https://www.aliexpress.com/item/1005008099333183.html) | 2 | inc. sockets. Alternatively, ProMicro/Elite-C for a wired build
 [Kailh Choc V1](https://a.aliexpress.com/_EGNqHgc) | 34 | key switches. Alternatively, Gateron KS-33
 [Choc hotswap sockets](https://a.aliexpress.com/_Eu2JK5E) | 34 | Alternatively, Gateron KS-33 hotswap sockets
 [Keycaps](https://a.aliexpress.com/_EGNqLfE) | 34 | 1U. If using KS-33 switches, STL files are provided to print your own 'MX stem, Choc-1U-spaced' caps
