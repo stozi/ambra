@@ -38,7 +38,7 @@ Item     | Qty   | Notes
 [SMD button 3×4×2](https://aliexpress.ru/item/1005003812819985.html) | 2 | reset switch
 [301230 li-po](https://aliexpress.ru/item/32732458079.html) | 2 | battery
 [JST PH right-angle 2-pin](https://www.aliexpress.com/item/1005008131930144.html) | 2 | battery connector
-[JST wire](https://www.aliexpress.com/item/1005001649158434.html) | 2 | solder & shrink tube to battery wires, no crimping needed, or battery already with connector 
+[JST wire](https://www.aliexpress.com/item/1005001649158434.html) | 2 | solder & shrink tube to battery wires, no crimping needed, or [battery already with connector](https://a.aliexpress.com/_EJkhjGm) 
 [M3 machine screws, 3mm](https://www.aliexpress.com/item/1005006662972635.html) | 2 | flathead, couples with magnet
 [M3 thin hex nuts](https://a.aliexpress.com/_EvCkuwM) | 2 |
 [M2 tapered head machine screws, 7mm](https://a.aliexpress.com/_EzeQ9lA) | 2 | holds magnet
