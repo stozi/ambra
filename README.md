@@ -13,12 +13,12 @@ A [Kalmar](https://github.com/aroum/kalmar)/[A. Dux](https://github.com/tapioki/
 - thumb keys mount at 90° with pogo pins and 3D-printed magnet brackets
 - besides Kailh Choc, support for Gateron KS-33, both hotswap only
 - JST PH battery connector
-- Switched the TRRS jack to the same pogo pin connector used for the thumb keys to prevent shorting
+- Switched the TRRS jack to the same pogo pin connector used for the thumb keys to prevent shorting (VCC/power is the middle pin so mounting one side backwards won't cause damage)
 - ground plane for some ESD protection, new pinout
 
 If you don't need fold-down packability or can't get the magnets, you can run a 9mm or longer M2 bolt through both brackets. However, any fall will then be more likely to cause damage.
 
-Consider epoxying/gluing a flat piece of plastic on top of the connectors on both ends of the daughter-board cable so it overhangs the connectors on the board. This will prevent connecting the cable upside-down on either side. Also, put a non-conductive coating over the JST connector's mount points and reenforce the pogo-pin units with a smidgen of epoxy putty just to relieve the pins of any leverage. In testing.
+Consider putting a non-conductive coating over the JST connector's mount points and reenforcing the pogo-pin units with a smidgen of epoxy putty just to relieve the pins of any leverage. In testing.
 
 ![Alt text](https://github.com/stozi/ambra/blob/main/ambra.png?raw=true)
 ![Alt text](https://github.com/stozi/ambra/blob/main/ambra-back.png?raw=true)
