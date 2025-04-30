@@ -1185,213 +1185,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "enki_lib:MJ-4PP-9"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J1"
-				(at 0.7874 7.0104 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "MJ-4PP-9"
-				(at 0.7874 4.699 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 6.985 4.445 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 6.985 4.445 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "4-pin (audio) jack receptable (stereo + 4th pin/TRRS connector), compatible with PJ320A"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "audio jack receptable stereo headphones TRRS connector"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "MJ-4PP-9_0_1"
-				(polyline
-					(pts
-						(xy -2.54 1.27) (xy -2.54 1.905) (xy 3.175 1.905)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.905 -1.905)
-					(end -3.175 1.27)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 -1.905) (xy -0.635 -1.27) (xy 0 -1.905) (xy 3.175 -1.905)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -0.635) (xy 0.635 0) (xy 1.27 -0.635) (xy 3.175 -0.635)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 0.635) (xy 1.905 1.27) (xy 2.54 0.635) (xy 3.175 0.635)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 3.175 2.54)
-					(end -3.81 -2.54)
-					(stroke
-						(width 0.3048)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "MJ-4PP-9_1_1"
-				(pin input line
-					(at 5.08 1.905 180)
-					(length 2.0066)
-					(name "~"
-						(effects
-							(font
-								(size 0.508 0.508)
-							)
-						)
-					)
-					(number "T"
-						(effects
-							(font
-								(size 0.7112 0.7112)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 5.08 0.635 180)
-					(length 2.0066)
-					(name "~"
-						(effects
-							(font
-								(size 0.508 0.508)
-							)
-						)
-					)
-					(number "S"
-						(effects
-							(font
-								(size 0.7112 0.7112)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 5.08 -0.635 180)
-					(length 2.0066)
-					(name "~"
-						(effects
-							(font
-								(size 0.508 0.508)
-							)
-						)
-					)
-					(number "R2"
-						(effects
-							(font
-								(size 0.7112 0.7112)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 5.08 -1.905 180)
-					(length 2.0066)
-					(name "~"
-						(effects
-							(font
-								(size 0.508 0.508)
-							)
-						)
-					)
-					(number "R1"
-						(effects
-							(font
-								(size 0.7112 0.7112)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "enki_lib:SW_PUSH"
 			(pin_numbers
 				(hide yes)
@@ -1729,12 +1522,6 @@
 		)
 	)
 	(junction
-		(at 64.77 139.7)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7fc8e869-547c-4f40-ae81-4721afc91b6c")
-	)
-	(junction
 		(at 86.36 40.005)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1793,16 +1580,6 @@
 			(type default)
 		)
 		(uuid "1eca5f72-2356-4c55-919d-595727faf3b9")
-	)
-	(wire
-		(pts
-			(xy 64.77 139.7) (xy 67.31 139.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "32d316ec-0dcf-408e-b976-4aa8f0e5e9aa")
 	)
 	(wire
 		(pts
@@ -1866,6 +1643,16 @@
 	)
 	(wire
 		(pts
+			(xy 81.28 143.51) (xy 81.28 142.875)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5a039c49-5754-4bc9-a21f-c17ed35e13dc")
+	)
+	(wire
+		(pts
 			(xy 131.445 33.655) (xy 131.445 37.465)
 		)
 		(stroke
@@ -1893,16 +1680,6 @@
 			(type default)
 		)
 		(uuid "73c0ef2e-40f4-443e-8ebc-561d8cfff0a1")
-	)
-	(wire
-		(pts
-			(xy 64.77 139.7) (xy 64.77 140.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "73d3ac24-e5bf-4f7e-8911-957fe65cc3c2")
 	)
 	(wire
 		(pts
@@ -2548,22 +2325,22 @@
 	)
 	(global_label "data"
 		(shape input)
-		(at 64.77 143.51 270)
+		(at 81.28 137.795 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1 1)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "79c6e906-e3b6-46c2-b5d3-cafe57246dcc")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 64.8325 148.6257 90)
+			(at 86.9161 137.795 0)
 			(effects
 				(font
 					(size 1 1)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -2848,7 +2625,7 @@
 	)
 	(global_label "VCC"
 		(shape input)
-		(at 64.77 142.24 0)
+		(at 81.28 140.335 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2858,7 +2635,7 @@
 		)
 		(uuid "d7fe5569-6fb3-4319-a300-dc5440135b3b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 69.4571 142.1775 0)
+			(at 85.9671 140.2725 0)
 			(effects
 				(font
 					(size 1 1)
@@ -3662,6 +3439,188 @@
 		)
 	)
 	(symbol
+		(lib_id "MTSW-103-07-S-S-225:MTSW-103-07-S-S-225")
+		(at 68.58 140.335 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3560efc5-412e-4a7e-9ed1-68bd40850f49")
+		(property "Reference" "J7"
+			(at 68.58 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "MTSW-103-07-S-S-225"
+			(at 68.58 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "my syms-foots:RTLECS_MG03254_f"
+			(at 68.58 140.335 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 68.58 140.335 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 68.58 140.335 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Samtec"
+			(at 68.58 140.335 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "\n                        \n                            HEADER, 3 CONTACTS, 1 ROW, THROUGH HOLE, 2.54 MM; Connector Systems:Board-to-Board; Pitch Spacing:2.54mm; No. of Rows:1Rows; No. of Contacts:3Contacts; Contact Termination Type:Through Hole; Product Range:MTSW Series; Gender:Header RoHS Compliant: Yes\n                        \n"
+			(at 68.58 140.335 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 68.58 140.335 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 68.58 140.335 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/MTSW10307SS225/Samtec/view-part/?ref=eda"
+			(at 68.58 140.335 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 68.58 140.335 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "R"
+			(at 68.58 140.335 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/MTSW10307SS225/Samtec/view-part/?ref=snap"
+			(at 68.58 140.335 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "MTSW10307SS225"
+			(at 68.58 140.335 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 68.58 140.335 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samtec"
+			(at 68.58 140.335 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "02"
+			(uuid "3e6809dd-0ac8-4c63-9777-2609affb58e4")
+		)
+		(pin "03"
+			(uuid "57ac8122-84f4-4d85-b16c-6502fe7dc544")
+		)
+		(pin "01"
+			(uuid "c991bee0-58c7-4214-9092-2333f1427228")
+		)
+		(instances
+			(project "ambra"
+				(path "/eaef1172-3351-417c-bfc4-74a598f141cb"
+					(reference "J7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 217.805 67.945 0)
 		(unit 1)
@@ -4115,79 +4074,6 @@
 			(project "ambra"
 				(path "/eaef1172-3351-417c-bfc4-74a598f141cb"
 					(reference "#PWR02")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "enki_lib:MJ-4PP-9")
-		(at 59.69 141.605 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "709a83f6-44be-47da-acf8-db9ef33cc645")
-		(property "Reference" "J5"
-			(at 60.4774 134.5946 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MJ-4PP-9"
-			(at 60.4774 136.906 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "my syms-foots:TRRS-MJ-4PP-9_dual_topor"
-			(at 66.675 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 66.675 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 59.69 141.605 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "R1"
-			(uuid "60d05a9f-9eb2-4e50-af3c-0c5de5a4d47c")
-		)
-		(pin "R2"
-			(uuid "33767146-2a05-4665-8ed2-7e8702775698")
-		)
-		(pin "S"
-			(uuid "ef1c3ae0-1551-442b-a7f4-66f0cdebe84d")
-		)
-		(pin "T"
-			(uuid "6d721264-8241-40a1-8f73-8892a90dea55")
-		)
-		(instances
-			(project "ambra"
-				(path "/eaef1172-3351-417c-bfc4-74a598f141cb"
-					(reference "J5")
 					(unit 1)
 				)
 			)
@@ -5111,7 +4997,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 67.31 139.7 90)
+		(at 81.28 143.51 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5120,7 +5006,7 @@
 		(fields_autoplaced yes)
 		(uuid "9213b385-b1c9-440c-bf9c-5a62e2d78315")
 		(property "Reference" "#PWR03"
-			(at 73.66 139.7 0)
+			(at 87.63 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5129,7 +5015,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 71.8725 139.7 0)
+			(at 85.8425 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5137,7 +5023,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 67.31 139.7 0)
+			(at 81.28 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5146,7 +5032,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 67.31 139.7 0)
+			(at 81.28 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5155,7 +5041,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 67.31 139.7 0)
+			(at 81.28 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
