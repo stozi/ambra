@@ -22,9 +22,8 @@ Consider putting a non-conductive coating between the JST connector's mount poin
 
 In testing.
 
-![Alt text](https://github.com/stozi/ambra/blob/main/ambra.png?raw=true)
-![Alt text](https://github.com/stozi/ambra/blob/main/ambra-back.png?raw=true)
-![Alt text](https://github.com/stozi/ambra/blob/main/brackets.png?raw=true)
+![Alt text](https://github.com/stozi/ambra/blob/main/prototype.jpg?raw=true)
+![Alt text](https://github.com/stozi/ambra/blob/main/brackets.jpg?raw=true)
 
 ## BOM
 
