@@ -18,7 +18,9 @@ A [Kalmar](https://github.com/aroum/kalmar)/[A. Dux](https://github.com/tapioki/
 
 If you don't need fold-down packability or can't get the magnets, you can run a 9mm or longer M2 bolt through both brackets. However, any fall will then be more likely to cause damage.
 
-Consider putting a non-conductive coating over the JST connector's mount points and reenforcing the pogo-pin units with a smidgen of epoxy putty just to relieve the pins of any leverage. In testing.
+Consider putting a non-conductive coating between the JST connector's mount points and the battery and reenforcing the pogo-pin units with a smidgen of epoxy putty just to relieve the pins of any leverage. Remove remnants of perforations on the thumb-key board before attaching the bracket.
+
+In testing.
 
 ![Alt text](https://github.com/stozi/ambra/blob/main/ambra.png?raw=true)
 ![Alt text](https://github.com/stozi/ambra/blob/main/ambra-back.png?raw=true)
