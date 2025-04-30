@@ -42,6 +42,6 @@ Item     | Qty   | Notes
 [M3 machine screws, 3mm](https://www.aliexpress.com/item/1005006662972635.html) | 2 | flathead, couples with magnet
 [M3 thin hex nuts](https://a.aliexpress.com/_EvCkuwM) | 2 |
 [M2 tapered head machine screws, 7mm](https://a.aliexpress.com/_EzeQ9lA) | 2 | holds magnet
-[M2 flat head machine screws](https://www.aliexpress.com/item/1005006662972635.html) | 4×5mm, 2×8mm | for brackets
+[M2 flat head machine screws](https://www.aliexpress.com/item/1005006662972635.html) | 6×8mm | for brackets
 [M2 thin hex nuts](https://a.aliexpress.com/_EvCkuwM) | 8 |
 OPTIONAL: [RTLECS MG03254 cable](https://www.aliexpress.com/item/1005007988032729.html) and extra RTLECS 90° female connectors as listed above | 2 of each | For a wired build: cut, solder and shrink-tube the two wires together
