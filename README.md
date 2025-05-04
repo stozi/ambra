@@ -20,7 +20,7 @@ If you don't need fold-down packability or can't get the magnets, you can run a 
 
 Consider putting a non-conductive coating between the JST connector's mount points and the battery and reenforcing the pogo-pin units with a smidgen of epoxy putty just to relieve the pins of any leverage. Remove remnants of perforations on the thumb-key board before attaching the bracket.
 
-In testing.
+Passed basic testing.
 
 ![Alt text](https://github.com/stozi/ambra/blob/main/prototype.jpg?raw=true)
 ![Alt text](https://github.com/stozi/ambra/blob/main/brackets.jpg?raw=true)
