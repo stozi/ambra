@@ -5,7 +5,7 @@ A [Kalmar](https://github.com/aroum/kalmar)/[A. Dux](https://github.com/tapioki/
 
 - power switch
 - reset button
-- solder jumpers to keep the MCU upright
+- solder jumpers to mount the MCU the same way on both sides
 - perforations on the tab for the connector between the right & left boards
 
 ### Changes from Kalmar
@@ -18,7 +18,7 @@ A [Kalmar](https://github.com/aroum/kalmar)/[A. Dux](https://github.com/tapioki/
 
 If you don't need fold-down packability or can't get the magnets, you can run a 9mm or longer M2 bolt through both brackets. However, any fall will then be more likely to cause damage.
 
-Consider putting a non-conductive coating between the JST connector's mount points and the battery. Remove remnants of perforations on the thumb-key board before attaching the bracket.
+Consider putting a non-conductive coating between the JST connector's mount points and the battery. Remove remnants of perforations on the thumb-key board before attaching the bracket. Personally, I mount the MCUs chips up so I can see the LEDs, and keep them safe under a case handcrafted of plumbing silicone.
 
 Passed basic testing.
 
