@@ -18,7 +18,7 @@ A [Kalmar](https://github.com/aroum/kalmar)/[A. Dux](https://github.com/tapioki/
 
 If you don't need fold-down packability or can't get the magnets, you can run a 9mm or longer M2 bolt through both brackets. However, any fall will then be more likely to cause damage.
 
-Consider putting a non-conductive coating between the JST connector's mount points and the battery. Remove remnants of perforations on the thumb-key board before attaching the bracket. Personally, I mount the MCUs chips up so I can see the LEDs, and keep them safe under a case handcrafted from plumbing silicone.
+Consider putting a non-conductive coating between the JST connector's mount points and the battery. Remove remnants of perforations on the thumb-key board before attaching the bracket. Personally, I solder the top-side jumpers to mount the MCUs component-side up so I can see the LEDs, and keep them safe under a case handcrafted from plumbing silicone.
 
 Passed basic testing.
 
